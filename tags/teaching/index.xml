@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>teaching on Timm Lichte</title>
+    <link>./tags/teaching/</link>
+    <description>Recent content in teaching on Timm Lichte</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Jun 2020 12:00:29 +0200</lastBuildDate>
+    
+	<atom:link href="./tags/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Privacy</title>
+      <link>./posts/privacy/</link>
+      <pubDate>Sat, 06 Jun 2020 12:00:29 +0200</pubDate>
+      
+      <guid>./posts/privacy/</guid>
+      <description>Data Protection Policy (GDPR) This website does not collect, store or process Personally Identifiable Information (PII). This website does not require the use of cookies.
+Third Party Inclusion This website is hosted by Github using Github Pages. The Github Global Privacy Practices are available here.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>./about/about/</link>
+      <pubDate>Fri, 05 Jun 2020 23:08:39 +0200</pubDate>
+      
+      <guid>./about/about/</guid>
+      <description>As of September 2018, I’m coordinator at the Department of Computer Science at the University of Tübingen.
+Before that, I was postdoc researcher and principal investigator in project A02 of the CRC991 at the University of Düsseldorf. Before that, I did my PhD within Laura Kallmeyer’s Emmy Noether project at the University of Tübingen. Before that I had been studying General Linguistics, Rhetorics and Computer Science in Tübingen and Berlin.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>./teaching/teaching/</link>
+      <pubDate>Fri, 05 Jun 2020 11:49:10 +0200</pubDate>
+      
+      <guid>./teaching/teaching/</guid>
+      <description>University of Tübingen (Computer Science)  2020: NLP: Lexikalische Semantik 2020: NLP: Tiefe Satzanalyse 2019/2020: NLP: Praktische Einführung mit Python (lecture) 2019/2020: NLP: Tiefe Satzanalyse 2019: NLP: Tiefe Satzanalyse 2019: NLP: Nicht-wörtliche Semantik 2018/2019: NLP: Lexikalische Semantik  University of Düsseldorf (Information Science and Language Technology)  2018: Computational Lexical Semantics (with Younes Samih) 2017/2018: Mehrworteinheiten 2017: Komplexität und natürliche Sprache (with Christian Wurm) 2015/2016: Complexity in grammar 2014/2015: Tree Adjoining Grammars (with Kata Balogh) 2013/2014: Inkrementelle Syntax 2012/2013: Tree Adjoining Grammars (with Laura Kallmeyer) 2011: Grammatikimplementierung mit TAG  International schools  9th DGfS-CL Fall School 2017 (Düsseldorf, Germany): Grammar Implementation with Lexicalized Tree Adjoining Grammars and Frame Semantics (with Laura Kallmeyer, Rainer Osswald and Simon Petitjean) European Summer School of Logic, Language, and Information (ESSLLI 2015) (Barcelona, Spain): Working with Tree Adjoining Grammars (with Kata Balogh) 6th DGfS-CL Fall School 2011 (Zürich, Switzerland): Introduction to TAG (with Wolfgang Maier).</description>
+    </item>
+    
+  </channel>
+</rss>

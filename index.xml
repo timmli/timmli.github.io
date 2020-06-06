@@ -6,7 +6,7 @@
     <description>Recent content on Timm Lichte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Jun 2020 12:48:53 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2020 13:41:55 +0200</lastBuildDate>
     
 	<atom:link href="https://timmli.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,13 +14,13 @@
     <item>
       <title>Publications</title>
       <link>https://timmli.github.io/publications/publications/</link>
-      <pubDate>Sat, 06 Jun 2020 12:48:53 +0200</pubDate>
+      <pubDate>Sat, 06 Jun 2020 13:41:55 +0200</pubDate>
       
       <guid>https://timmli.github.io/publications/publications/</guid>
       <description>The used citation style is the Unified Style Sheet for Linguistics.
 \(\rightarrow\) CSL, BibLaTeX, support for Jabref and Papercite
-2019 Lichte, Timm, Simon Petitjean, Agata Savary &amp;amp; Jakub Waszczuk. 2019. Lexical encoding formats for multi-word expressions: The challenge of “irregular” regularities. In Yannick Parmentier &amp;amp; Jakub Waszczuk (eds.), Representation and parsing of multiword expressions: Current trends (Phraseology and Multiword Expressions 3), 1–33. Berlin: Language Science Press. https://doi.org/10.5281/zenodo.2579033.
-Savary, Agata, Silvio Ricardo Cordeiro, Timm Lichte, Carlos Ramisch, Uxoa Iñurrieta &amp;amp; Voula Giouli.</description>
+To appear Ehren, Rafael, Timm Lichte, Laura Kallmeyer, Jakub Waszczuk. To appear. Supervised Disambiguation of German Verbal Idioms with a BiLSTM Architecture. ACL Workshop FigLang 2020.
+2019 Lichte, Timm, Simon Petitjean, Agata Savary &amp;amp; Jakub Waszczuk. 2019. Lexical encoding formats for multi-word expressions: The challenge of “irregular” regularities. In Yannick Parmentier &amp;amp; Jakub Waszczuk (eds.</description>
     </item>
     
     <item>

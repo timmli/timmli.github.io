@@ -6,31 +6,31 @@
     <description>Recent content on Timm Lichte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Jun 2020 12:00:29 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2020 12:48:53 +0200</lastBuildDate>
     
 	<atom:link href="https://timmli.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Publications</title>
+      <link>https://timmli.github.io/publications/publications/</link>
+      <pubDate>Sat, 06 Jun 2020 12:48:53 +0200</pubDate>
+      
+      <guid>https://timmli.github.io/publications/publications/</guid>
+      <description>The used citation style is the Unified Style Sheet for Linguistics.
+\(\rightarrow\) CSL, BibLaTeX, support for Jabref and Papercite
+2019 Lichte, Timm, Simon Petitjean, Agata Savary &amp;amp; Jakub Waszczuk. 2019. Lexical encoding formats for multi-word expressions: The challenge of “irregular” regularities. In Yannick Parmentier &amp;amp; Jakub Waszczuk (eds.), Representation and parsing of multiword expressions: Current trends (Phraseology and Multiword Expressions 3), 1–33. Berlin: Language Science Press. https://doi.org/10.5281/zenodo.2579033.
+Savary, Agata, Silvio Ricardo Cordeiro, Timm Lichte, Carlos Ramisch, Uxoa Iñurrieta &amp;amp; Voula Giouli.</description>
+    </item>
+    
+    <item>
       <title>Privacy</title>
       <link>https://timmli.github.io/posts/privacy/</link>
-      <pubDate>Sat, 06 Jun 2020 12:00:29 +0200</pubDate>
+      <pubDate>Sat, 06 Jun 2020 12:38:24 +0200</pubDate>
       
       <guid>https://timmli.github.io/posts/privacy/</guid>
       <description>Data Protection Policy (GDPR) This website does not collect, store or process Personally Identifiable Information (PII). This website does not require the use of cookies.
 Third Party Inclusion This website is hosted by Github using Github Pages. The Github Global Privacy Practices are available here.</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://timmli.github.io/publications/publications/</link>
-      <pubDate>Sat, 06 Jun 2020 01:08:19 +0200</pubDate>
-      
-      <guid>https://timmli.github.io/publications/publications/</guid>
-      <description>The used citations style is the Unified Style Sheet for Linguistics.
-\(\rightarrow\) CSL, BibLaTeX, support for Jabref and Papercite
-2019 Lichte, Timm, Simon Petitjean, Agata Savary &amp;amp; Jakub Waszczuk. 2019. Lexical encoding formats for multi-word expressions: The challenge of “irregular” regularities. In Yannick Parmentier &amp;amp; Jakub Waszczuk (eds.), Representation and parsing of multiword expressions: Current trends (Phraseology and Multiword Expressions 3), 1–33. Berlin: Language Science Press. https://doi.org/10.5281/zenodo.2579033.
-Savary, Agata, Silvio Ricardo Cordeiro, Timm Lichte, Carlos Ramisch, Uxoa Iñurrieta &amp;amp; Voula Giouli.</description>
     </item>
     
     <item>

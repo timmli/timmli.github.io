@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Timm Lichte</title>
-    <link>./tags/</link>
+    <link>https://timmli.github.io/tags/</link>
     <description>Recent content in Tags on Timm Lichte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 06 Jun 2020 12:00:29 +0200</lastBuildDate>
     
-	<atom:link href="./tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://timmli.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>research</title>
-      <link>./tags/research/</link>
+      <link>https://timmli.github.io/tags/research/</link>
       <pubDate>Sat, 06 Jun 2020 12:00:29 +0200</pubDate>
       
-      <guid>./tags/research/</guid>
+      <guid>https://timmli.github.io/tags/research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>teaching</title>
-      <link>./tags/teaching/</link>
+      <link>https://timmli.github.io/tags/teaching/</link>
       <pubDate>Sat, 06 Jun 2020 12:00:29 +0200</pubDate>
       
-      <guid>./tags/teaching/</guid>
+      <guid>https://timmli.github.io/tags/teaching/</guid>
       <description></description>
     </item>
     
     <item>
       <title>emacs</title>
-      <link>./tags/emacs/</link>
+      <link>https://timmli.github.io/tags/emacs/</link>
       <pubDate>Fri, 05 Jun 2020 17:57:16 +0200</pubDate>
       
-      <guid>./tags/emacs/</guid>
+      <guid>https://timmli.github.io/tags/emacs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>latex</title>
-      <link>./tags/latex/</link>
+      <link>https://timmli.github.io/tags/latex/</link>
       <pubDate>Fri, 05 Jun 2020 17:57:16 +0200</pubDate>
       
-      <guid>./tags/latex/</guid>
+      <guid>https://timmli.github.io/tags/latex/</guid>
       <description></description>
     </item>
     

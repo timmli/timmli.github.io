@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>research on Timm Lichte</title>
-    <link>./tags/research/</link>
+    <link>https://timmli.github.io/tags/research/</link>
     <description>Recent content in research on Timm Lichte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 06 Jun 2020 12:00:29 +0200</lastBuildDate>
     
-	<atom:link href="./tags/research/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://timmli.github.io/tags/research/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Privacy</title>
-      <link>./posts/privacy/</link>
+      <link>https://timmli.github.io/posts/privacy/</link>
       <pubDate>Sat, 06 Jun 2020 12:00:29 +0200</pubDate>
       
-      <guid>./posts/privacy/</guid>
+      <guid>https://timmli.github.io/posts/privacy/</guid>
       <description>Data Protection Policy (GDPR) This website does not collect, store or process Personally Identifiable Information (PII). This website does not require the use of cookies.
 Third Party Inclusion This website is hosted by Github using Github Pages. The Github Global Privacy Practices are available here.</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>./publications/publications/</link>
+      <link>https://timmli.github.io/publications/publications/</link>
       <pubDate>Sat, 06 Jun 2020 01:08:19 +0200</pubDate>
       
-      <guid>./publications/publications/</guid>
+      <guid>https://timmli.github.io/publications/publications/</guid>
       <description>The used citations style is the Unified Style Sheet for Linguistics.
 \(\rightarrow\) CSL, BibLaTeX, support for Jabref and Papercite
 2019 Lichte, Timm, Simon Petitjean, Agata Savary &amp;amp; Jakub Waszczuk. 2019. Lexical encoding formats for multi-word expressions: The challenge of “irregular” regularities. In Yannick Parmentier &amp;amp; Jakub Waszczuk (eds.), Representation and parsing of multiword expressions: Current trends (Phraseology and Multiword Expressions 3), 1–33. Berlin: Language Science Press. https://doi.org/10.5281/zenodo.2579033.
@@ -35,30 +35,30 @@ Savary, Agata, Silvio Ricardo Cordeiro, Timm Lichte, Carlos Ramisch, Uxoa Iñurr
     
     <item>
       <title>About</title>
-      <link>./about/about/</link>
+      <link>https://timmli.github.io/about/about/</link>
       <pubDate>Fri, 05 Jun 2020 23:08:39 +0200</pubDate>
       
-      <guid>./about/about/</guid>
+      <guid>https://timmli.github.io/about/about/</guid>
       <description>As of September 2018, I’m coordinator at the Department of Computer Science at the University of Tübingen.
 Before that, I was postdoc researcher and principal investigator in project A02 of the CRC991 at the University of Düsseldorf. Before that, I did my PhD within Laura Kallmeyer’s Emmy Noether project at the University of Tübingen. Before that I had been studying General Linguistics, Rhetorics and Computer Science in Tübingen and Berlin.</description>
     </item>
     
     <item>
       <title>Software &amp; Resources</title>
-      <link>./software/software/</link>
+      <link>https://timmli.github.io/software/software/</link>
       <pubDate>Fri, 05 Jun 2020 17:57:16 +0200</pubDate>
       
-      <guid>./software/software/</guid>
+      <guid>https://timmli.github.io/software/software/</guid>
       <description>I&amp;rsquo;ve been involved in the creation of the following software and resources.
 Language resources  COLF-VID: Corpus of Literal and Figurative Readings PARSEME Shared Task: Corpus of German idioms  Grammar engineering  XMG-WebGUI: A web GUI for compiling and displaying metagrammars written with XMG. TuLiPA: A parsing environment for variants of Tree-Adjoining Grammar.  LaTeX  LaTeX templates Langscibook class: The book template of Language Science Press.  Emacs  org-fm: Fast minutes with org-fm  </description>
     </item>
     
     <item>
       <title>Events</title>
-      <link>./events/events/</link>
+      <link>https://timmli.github.io/events/events/</link>
       <pubDate>Fri, 05 Jun 2020 17:53:34 +0200</pubDate>
       
-      <guid>./events/events/</guid>
+      <guid>https://timmli.github.io/events/events/</guid>
       <description>Talks &amp;amp; Presentations Timm Lichte. 2018. Incremental inference-based MWE processing with TUCO. Talk at Cognitive Structures: Linguistic, Philosophical and Psychological Perspectives (CoSt 2018). 12.–14. September 2018, Düsseldorf.
 Timm Lichte &amp;amp; Christian Wurm. 2018. Meaning and Combinatorics of Ambiguity. Poster at the Ambigo Workshop, 4.–6. July 2018, University of Göttingen.
 Fabienne Cap, Rafael Ehren, Maximilian Köper, Timm Lichte, Sabine Schulte im Walde &amp;amp; Heike Zinsmeister. 2018. VerbCompoCor: A German Corpus with Compositionality Judgments for Verb-Dependent Pairs.</description>

@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Timm Lichte</title>
-    <link>https://timmli.github.io/tags/</link>
+    <link>http://timm-lichte.de/tags/</link>
     <description>Recent content in Tags on Timm Lichte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 06 Jun 2020 23:42:00 +0200</lastBuildDate>
     
-	<atom:link href="https://timmli.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://timm-lichte.de/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>research</title>
-      <link>https://timmli.github.io/tags/research/</link>
+      <link>http://timm-lichte.de/tags/research/</link>
       <pubDate>Sat, 06 Jun 2020 23:42:00 +0200</pubDate>
       
-      <guid>https://timmli.github.io/tags/research/</guid>
+      <guid>http://timm-lichte.de/tags/research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>teaching</title>
-      <link>https://timmli.github.io/tags/teaching/</link>
+      <link>http://timm-lichte.de/tags/teaching/</link>
       <pubDate>Fri, 05 Jun 2020 23:08:39 +0200</pubDate>
       
-      <guid>https://timmli.github.io/tags/teaching/</guid>
+      <guid>http://timm-lichte.de/tags/teaching/</guid>
       <description></description>
     </item>
     
     <item>
       <title>emacs</title>
-      <link>https://timmli.github.io/tags/emacs/</link>
+      <link>http://timm-lichte.de/tags/emacs/</link>
       <pubDate>Fri, 05 Jun 2020 17:57:16 +0200</pubDate>
       
-      <guid>https://timmli.github.io/tags/emacs/</guid>
+      <guid>http://timm-lichte.de/tags/emacs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>latex</title>
-      <link>https://timmli.github.io/tags/latex/</link>
+      <link>http://timm-lichte.de/tags/latex/</link>
       <pubDate>Fri, 05 Jun 2020 17:57:16 +0200</pubDate>
       
-      <guid>https://timmli.github.io/tags/latex/</guid>
+      <guid>http://timm-lichte.de/tags/latex/</guid>
       <description></description>
     </item>
     

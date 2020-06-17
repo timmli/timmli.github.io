@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Softwares on Timm Lichte</title>
-    <link>https://timmli.github.io/software/</link>
+    <link>http://timm-lichte.de/software/</link>
     <description>Recent content in Softwares on Timm Lichte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Jun 2020 17:57:16 +0200</lastBuildDate>
     
-	<atom:link href="https://timmli.github.io/software/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://timm-lichte.de/software/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Software &amp; Resources</title>
-      <link>https://timmli.github.io/software/software/</link>
+      <link>http://timm-lichte.de/software/software/</link>
       <pubDate>Fri, 05 Jun 2020 17:57:16 +0200</pubDate>
       
-      <guid>https://timmli.github.io/software/software/</guid>
+      <guid>http://timm-lichte.de/software/software/</guid>
       <description>I&amp;rsquo;ve been involved in the creation of the following software and resources.
 Language resources  COLF-VID: Corpus of Literal and Figurative Readings PARSEME Shared Task: Corpus of German idioms  Grammar engineering  XMG-WebGUI: A web GUI for compiling and displaying metagrammars written with XMG. TuLiPA: A parsing environment for variants of Tree-Adjoining Grammar.  LaTeX  LaTeX templates Langscibook class: The book template of Language Science Press.  Emacs  org-fm: Fast minutes with org-fm  </description>
     </item>

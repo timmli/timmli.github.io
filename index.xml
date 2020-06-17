@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Timm Lichte</title>
-    <link>https://timmli.github.io/</link>
+    <link>http://timm-lichte.de/</link>
     <description>Recent content on Timm Lichte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Jun 2020 11:28:08 +0200</lastBuildDate>
     
-	<atom:link href="https://timmli.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://timm-lichte.de/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Privacy</title>
-      <link>https://timmli.github.io/posts/privacy/</link>
+      <link>http://timm-lichte.de/posts/privacy/</link>
       <pubDate>Fri, 12 Jun 2020 11:28:08 +0200</pubDate>
       
-      <guid>https://timmli.github.io/posts/privacy/</guid>
+      <guid>http://timm-lichte.de/posts/privacy/</guid>
       <description>Data Protection Policy (GDPR) This website does not collect, store or process Personally Identifiable Information (PII). This website does not require the use of cookies.
 Third Party Inclusion This website is hosted by Github using Github Pages. The Github Global Privacy Practices are available here.</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://timmli.github.io/publications/publications/</link>
+      <link>http://timm-lichte.de/publications/publications/</link>
       <pubDate>Sat, 06 Jun 2020 23:42:00 +0200</pubDate>
       
-      <guid>https://timmli.github.io/publications/publications/</guid>
+      <guid>http://timm-lichte.de/publications/publications/</guid>
       <description>The used citation style is the Unified Style Sheet for Linguistics.
 \(\rightarrow\) CSL, BibLaTeX, support for Jabref and Papercite
 To appear Ehren, Rafael, Timm Lichte, Laura Kallmeyer &amp;amp; Jakub Waszczuk. To appear. Supervised Disambiguation of German Verbal Idioms with a BiLSTM Architecture. ACL Workshop FigLang 2020.
@@ -35,30 +35,30 @@ To appear Ehren, Rafael, Timm Lichte, Laura Kallmeyer &amp;amp; Jakub Waszczuk. 
     
     <item>
       <title>About</title>
-      <link>https://timmli.github.io/about/about/</link>
+      <link>http://timm-lichte.de/about/about/</link>
       <pubDate>Fri, 05 Jun 2020 23:08:39 +0200</pubDate>
       
-      <guid>https://timmli.github.io/about/about/</guid>
+      <guid>http://timm-lichte.de/about/about/</guid>
       <description>As of September 2018, I’m coordinator at the Department of Computer Science at the University of Tübingen.
 Before that, I was postdoc researcher and principal investigator in project A02 of the CRC991 at the University of Düsseldorf. Before that, I did my PhD within Laura Kallmeyer’s Emmy Noether project at the University of Tübingen. Before that I had been studying General Linguistics, Rhetorics and Computer Science in Tübingen and Berlin.</description>
     </item>
     
     <item>
       <title>Software &amp; Resources</title>
-      <link>https://timmli.github.io/software/software/</link>
+      <link>http://timm-lichte.de/software/software/</link>
       <pubDate>Fri, 05 Jun 2020 17:57:16 +0200</pubDate>
       
-      <guid>https://timmli.github.io/software/software/</guid>
+      <guid>http://timm-lichte.de/software/software/</guid>
       <description>I&amp;rsquo;ve been involved in the creation of the following software and resources.
 Language resources  COLF-VID: Corpus of Literal and Figurative Readings PARSEME Shared Task: Corpus of German idioms  Grammar engineering  XMG-WebGUI: A web GUI for compiling and displaying metagrammars written with XMG. TuLiPA: A parsing environment for variants of Tree-Adjoining Grammar.  LaTeX  LaTeX templates Langscibook class: The book template of Language Science Press.  Emacs  org-fm: Fast minutes with org-fm  </description>
     </item>
     
     <item>
       <title>Events</title>
-      <link>https://timmli.github.io/events/events/</link>
+      <link>http://timm-lichte.de/events/events/</link>
       <pubDate>Fri, 05 Jun 2020 17:53:34 +0200</pubDate>
       
-      <guid>https://timmli.github.io/events/events/</guid>
+      <guid>http://timm-lichte.de/events/events/</guid>
       <description>Talks &amp;amp; Presentations Timm Lichte. 2018. Incremental inference-based MWE processing with TUCO. Talk at Cognitive Structures: Linguistic, Philosophical and Psychological Perspectives (CoSt 2018). 12.–14. September 2018, Düsseldorf.
 Timm Lichte &amp;amp; Christian Wurm. 2018. Meaning and Combinatorics of Ambiguity. Poster at the Ambigo Workshop, 4.–6. July 2018, University of Göttingen.
 Fabienne Cap, Rafael Ehren, Maximilian Köper, Timm Lichte, Sabine Schulte im Walde &amp;amp; Heike Zinsmeister. 2018. VerbCompoCor: A German Corpus with Compositionality Judgments for Verb-Dependent Pairs.</description>
@@ -66,10 +66,10 @@ Fabienne Cap, Rafael Ehren, Maximilian Köper, Timm Lichte, Sabine Schulte im Wa
     
     <item>
       <title>Teaching</title>
-      <link>https://timmli.github.io/teaching/teaching/</link>
+      <link>http://timm-lichte.de/teaching/teaching/</link>
       <pubDate>Fri, 05 Jun 2020 11:49:10 +0200</pubDate>
       
-      <guid>https://timmli.github.io/teaching/teaching/</guid>
+      <guid>http://timm-lichte.de/teaching/teaching/</guid>
       <description>University of Tübingen (Computer Science)  2020: NLP: Lexikalische Semantik 2020: NLP: Tiefe Satzanalyse 2019/2020: NLP: Praktische Einführung mit Python (lecture) 2019/2020: NLP: Tiefe Satzanalyse 2019: NLP: Tiefe Satzanalyse 2019: NLP: Nicht-wörtliche Semantik 2018/2019: NLP: Lexikalische Semantik  University of Düsseldorf (Information Science and Language Technology)  2018: Computational Lexical Semantics (with Younes Samih) 2017/2018: Mehrworteinheiten 2017: Komplexität und natürliche Sprache (with Christian Wurm) 2015/2016: Complexity in grammar 2014/2015: Tree Adjoining Grammars (with Kata Balogh) 2013/2014: Inkrementelle Syntax 2012/2013: Tree Adjoining Grammars (with Laura Kallmeyer) 2011: Grammatikimplementierung mit TAG  International schools  9th DGfS-CL Fall School 2017 (Düsseldorf, Germany): Grammar Implementation with Lexicalized Tree Adjoining Grammars and Frame Semantics (with Laura Kallmeyer, Rainer Osswald and Simon Petitjean) European Summer School of Logic, Language, and Information (ESSLLI 2015) (Barcelona, Spain): Working with Tree Adjoining Grammars (with Kata Balogh) 6th DGfS-CL Fall School 2011 (Zürich, Switzerland): Introduction to TAG (with Wolfgang Maier).</description>
     </item>
     

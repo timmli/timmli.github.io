@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on Timm Lichte</title>
-    <link>https://timmli.github.io/events/</link>
+    <link>http://timm-lichte.de/events/</link>
     <description>Recent content in Events on Timm Lichte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Jun 2020 17:53:34 +0200</lastBuildDate>
     
-	<atom:link href="https://timmli.github.io/events/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://timm-lichte.de/events/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Events</title>
-      <link>https://timmli.github.io/events/events/</link>
+      <link>http://timm-lichte.de/events/events/</link>
       <pubDate>Fri, 05 Jun 2020 17:53:34 +0200</pubDate>
       
-      <guid>https://timmli.github.io/events/events/</guid>
+      <guid>http://timm-lichte.de/events/events/</guid>
       <description>Talks &amp;amp; Presentations Timm Lichte. 2018. Incremental inference-based MWE processing with TUCO. Talk at Cognitive Structures: Linguistic, Philosophical and Psychological Perspectives (CoSt 2018). 12.–14. September 2018, Düsseldorf.
 Timm Lichte &amp;amp; Christian Wurm. 2018. Meaning and Combinatorics of Ambiguity. Poster at the Ambigo Workshop, 4.–6. July 2018, University of Göttingen.
 Fabienne Cap, Rafael Ehren, Maximilian Köper, Timm Lichte, Sabine Schulte im Walde &amp;amp; Heike Zinsmeister. 2018. VerbCompoCor: A German Corpus with Compositionality Judgments for Verb-Dependent Pairs.</description>

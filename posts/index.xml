@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Timm Lichte</title>
-    <link>https://timmli.github.io/posts/</link>
+    <link>http://timm-lichte.de/posts/</link>
     <description>Recent content in Posts on Timm Lichte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Jun 2020 11:28:08 +0200</lastBuildDate>
     
-	<atom:link href="https://timmli.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://timm-lichte.de/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Privacy</title>
-      <link>https://timmli.github.io/posts/privacy/</link>
+      <link>http://timm-lichte.de/posts/privacy/</link>
       <pubDate>Fri, 12 Jun 2020 11:28:08 +0200</pubDate>
       
-      <guid>https://timmli.github.io/posts/privacy/</guid>
+      <guid>http://timm-lichte.de/posts/privacy/</guid>
       <description>Data Protection Policy (GDPR) This website does not collect, store or process Personally Identifiable Information (PII). This website does not require the use of cookies.
 Third Party Inclusion This website is hosted by Github using Github Pages. The Github Global Privacy Practices are available here.</description>
     </item>

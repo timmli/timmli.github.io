@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Timm Lichte</title>
-    <link>https://timmli.github.io/publications/</link>
+    <link>http://timm-lichte.de/publications/</link>
     <description>Recent content in Publications on Timm Lichte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 06 Jun 2020 23:42:00 +0200</lastBuildDate>
     
-	<atom:link href="https://timmli.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://timm-lichte.de/publications/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Publications</title>
-      <link>https://timmli.github.io/publications/publications/</link>
+      <link>http://timm-lichte.de/publications/publications/</link>
       <pubDate>Sat, 06 Jun 2020 23:42:00 +0200</pubDate>
       
-      <guid>https://timmli.github.io/publications/publications/</guid>
+      <guid>http://timm-lichte.de/publications/publications/</guid>
       <description>The used citation style is the Unified Style Sheet for Linguistics.
 \(\rightarrow\) CSL, BibLaTeX, support for Jabref and Papercite
 To appear Ehren, Rafael, Timm Lichte, Laura Kallmeyer &amp;amp; Jakub Waszczuk. To appear. Supervised Disambiguation of German Verbal Idioms with a BiLSTM Architecture. ACL Workshop FigLang 2020.

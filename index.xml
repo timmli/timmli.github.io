@@ -6,10 +6,22 @@
     <description>Recent content on Timm Lichte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jun 2020 11:28:08 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2020 21:56:13 +0200</lastBuildDate>
     
 	<atom:link href="http://timm-lichte.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Publications</title>
+      <link>http://timm-lichte.de/publications/publications/</link>
+      <pubDate>Thu, 02 Jul 2020 21:56:13 +0200</pubDate>
+      
+      <guid>http://timm-lichte.de/publications/publications/</guid>
+      <description>The used citation style is the Unified Style Sheet for Linguistics.
+\(\rightarrow\) CSL, BibLaTeX, support for Jabref and Papercite
+2020 Ehren, Rafael, Timm Lichte, Laura Kallmeyer &amp;amp; Jakub Waszczuk. 2020. Supervised Disambiguation of German Verbal Idioms with a BiLSTM Architecture. In Proceedings of the Second Workshop on Figurative Language Processing, 211–220. Online: Association for Computational Linguistics. https://www.aclweb.org/anthology/2020.figlang-1.29.
+2019 Lichte, Timm, Simon Petitjean, Agata Savary &amp;amp; Jakub Waszczuk. 2019. Lexical encoding formats for multi-word expressions: The challenge of “irregular” regularities.</description>
+    </item>
     
     <item>
       <title>Privacy</title>
@@ -19,18 +31,6 @@
       <guid>http://timm-lichte.de/posts/privacy/</guid>
       <description>Data Protection Policy (GDPR) This website does not collect, store or process Personally Identifiable Information (PII). This website does not require the use of cookies.
 Third Party Inclusion This website is hosted by Github using Github Pages. The Github Global Privacy Practices are available here.</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>http://timm-lichte.de/publications/publications/</link>
-      <pubDate>Sat, 06 Jun 2020 23:42:00 +0200</pubDate>
-      
-      <guid>http://timm-lichte.de/publications/publications/</guid>
-      <description>The used citation style is the Unified Style Sheet for Linguistics.
-\(\rightarrow\) CSL, BibLaTeX, support for Jabref and Papercite
-To appear Ehren, Rafael, Timm Lichte, Laura Kallmeyer &amp;amp; Jakub Waszczuk. To appear. Supervised Disambiguation of German Verbal Idioms with a BiLSTM Architecture. ACL Workshop FigLang 2020.
-2019 Lichte, Timm, Simon Petitjean, Agata Savary &amp;amp; Jakub Waszczuk. 2019. Lexical encoding formats for multi-word expressions: The challenge of “irregular” regularities. In Yannick Parmentier &amp;amp; Jakub Waszczuk (eds.</description>
     </item>
     
     <item>

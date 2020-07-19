@@ -6,7 +6,7 @@
     <description>Recent content in Teachings on Timm Lichte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jun 2020 11:49:10 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2020 09:29:19 +0200</lastBuildDate>
     
 	<atom:link href="http://timm-lichte.de/teaching/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,10 @@
     <item>
       <title>Teaching</title>
       <link>http://timm-lichte.de/teaching/teaching/</link>
-      <pubDate>Fri, 05 Jun 2020 11:49:10 +0200</pubDate>
+      <pubDate>Sun, 19 Jul 2020 09:29:19 +0200</pubDate>
       
       <guid>http://timm-lichte.de/teaching/teaching/</guid>
-      <description>University of Tübingen (Computer Science)  2020: NLP: Lexikalische Semantik 2020: NLP: Tiefe Satzanalyse 2019/2020: NLP: Praktische Einführung mit Python (lecture) 2019/2020: NLP: Tiefe Satzanalyse 2019: NLP: Tiefe Satzanalyse 2019: NLP: Nicht-wörtliche Semantik 2018/2019: NLP: Lexikalische Semantik  University of Düsseldorf (Information Science and Language Technology)  2018: Computational Lexical Semantics (with Younes Samih) 2017/2018: Mehrworteinheiten 2017: Komplexität und natürliche Sprache (with Christian Wurm) 2015/2016: Complexity in grammar 2014/2015: Tree Adjoining Grammars (with Kata Balogh) 2013/2014: Inkrementelle Syntax 2012/2013: Tree Adjoining Grammars (with Laura Kallmeyer) 2011: Grammatikimplementierung mit TAG  International schools  9th DGfS-CL Fall School 2017 (Düsseldorf, Germany): Grammar Implementation with Lexicalized Tree Adjoining Grammars and Frame Semantics (with Laura Kallmeyer, Rainer Osswald and Simon Petitjean) European Summer School of Logic, Language, and Information (ESSLLI 2015) (Barcelona, Spain): Working with Tree Adjoining Grammars (with Kata Balogh) 6th DGfS-CL Fall School 2011 (Zürich, Switzerland): Introduction to TAG (with Wolfgang Maier).</description>
+      <description>University of Tübingen (Computer Science)  2020: NLP: Lexikalische Semantik 2020: NLP: Tiefe Satzanalyse 2019/2020: NLP: Praktische Einführung mit Python (lecture) 2019/2020: NLP: Tiefe Satzanalyse 2019: NLP: Tiefe Satzanalyse 2019: NLP: Nicht-wörtliche Semantik 2018/2019: NLP: Lexikalische Semantik  University of Düsseldorf (Information Science and Language Technology)  2018: Computational Lexical Semantics (with Younes Samih) 2017/2018: Mehrworteinheiten 2017: Komplexität und natürliche Sprache (with Christian Wurm) 2015/2016: Complexity in grammar 2014/2015: Tree Adjoining Grammars (with Kata Balogh) 2013/2014: Inkrementelle Syntax 2012/2013: Tree Adjoining Grammars (with Laura Kallmeyer) 2011: Grammatikimplementierung mit TAG  International schools  9th DGfS-CL Fall School 2017 (Düsseldorf, Germany): Grammar Implementation with Lexicalized Tree Adjoining Grammars and Frame Semantics (with Laura Kallmeyer, Rainer Osswald and Simon Petitjean) European Summer School of Logic, Language, and Information (ESSLLI 2015) (Barcelona, Spain): Working with Tree Adjoining Grammars (with Kata Balogh) 6th DGfS-CL Fall School 2011 (Zürich, Switzerland): Introduction to TAG (with Wolfgang Maier).</description>
     </item>
     
   </channel>

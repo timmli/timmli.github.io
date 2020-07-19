@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://timm-lichte.de/teaching/teaching/</loc>
+    <lastmod>2020-07-19T09:29:19+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://timm-lichte.de/publications/publications/</loc>
     <lastmod>2020-07-02T21:56:13+02:00</lastmod>
   </url>
@@ -28,8 +33,23 @@
   </url>
   
   <url>
-    <loc>http://timm-lichte.de/teaching/teaching/</loc>
-    <lastmod>2020-06-05T11:49:10+02:00</lastmod>
+    <loc>http://timm-lichte.de/tags/</loc>
+    <lastmod>2020-07-19T09:29:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://timm-lichte.de/tags/teaching/</loc>
+    <lastmod>2020-07-19T09:29:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://timm-lichte.de/teaching/</loc>
+    <lastmod>2020-07-19T09:29:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://timm-lichte.de/</loc>
+    <lastmod>2020-07-19T09:29:19+02:00</lastmod>
   </url>
   
   <url>
@@ -43,27 +63,12 @@
   </url>
   
   <url>
-    <loc>http://timm-lichte.de/tags/</loc>
-    <lastmod>2020-07-02T21:56:13+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://timm-lichte.de/</loc>
-    <lastmod>2020-07-02T21:56:13+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://timm-lichte.de/posts/</loc>
     <lastmod>2020-06-12T11:28:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://timm-lichte.de/about/</loc>
-    <lastmod>2020-06-05T23:08:39+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://timm-lichte.de/tags/teaching/</loc>
     <lastmod>2020-06-05T23:08:39+02:00</lastmod>
   </url>
   
@@ -85,11 +90,6 @@
   <url>
     <loc>http://timm-lichte.de/events/</loc>
     <lastmod>2020-06-05T17:53:34+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://timm-lichte.de/teaching/</loc>
-    <lastmod>2020-06-05T11:49:10+02:00</lastmod>
   </url>
   
   <url>

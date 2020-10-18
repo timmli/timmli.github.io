@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Privacies on Timm Lichte</title>
+    <link>http://timm-lichte.de/privacy/</link>
+    <description>Recent content in Privacies on Timm Lichte</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Jun 2020 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="http://timm-lichte.de/privacy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Privacy</title>
+      <link>http://timm-lichte.de/privacy/privacy/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0200</pubDate>
+      
+      <guid>http://timm-lichte.de/privacy/privacy/</guid>
+      <description>Data Protection Policy (GDPR) This website does not collect, store or process Personally Identifiable Information (PII). This website does not require the use of cookies.
+Third Party Inclusion This website is hosted by Github using Github Pages. The Github Global Privacy Practices are available here.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,18 +6,28 @@
     <description>Recent content on Timm Lichte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jul 2020 09:29:19 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2020 22:56:36 +0200</lastBuildDate>
     
 	<atom:link href="http://timm-lichte.de/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>About</title>
+      <link>http://timm-lichte.de/about/about/</link>
+      <pubDate>Sun, 18 Oct 2020 22:56:36 +0200</pubDate>
+      
+      <guid>http://timm-lichte.de/about/about/</guid>
+      <description>As of September 2018, I&amp;rsquo;m coordinator of the Department of Computer Science at the University of Tübingen. Currently, I&amp;rsquo;m furthermore filling a substitute professorship (50%) on &amp;ldquo;Applied Computational Linguistics&amp;rdquo; at the University of Bielefeld.
+Before that, I was postdoc researcher and principal investigator in project A02 of the CRC991 at the University of Düsseldorf. Before that, I did my PhD within Laura Kallmeyer’s Emmy Noether project at the University of Tübingen.</description>
+    </item>
+    
+    <item>
       <title>Teaching</title>
       <link>http://timm-lichte.de/teaching/teaching/</link>
-      <pubDate>Sun, 19 Jul 2020 09:29:19 +0200</pubDate>
+      <pubDate>Sun, 18 Oct 2020 20:43:41 +0200</pubDate>
       
       <guid>http://timm-lichte.de/teaching/teaching/</guid>
-      <description>University of Tübingen (Computer Science)  2020: NLP: Lexikalische Semantik 2020: NLP: Tiefe Satzanalyse 2019/2020: NLP: Praktische Einführung mit Python (lecture) 2019/2020: NLP: Tiefe Satzanalyse 2019: NLP: Tiefe Satzanalyse 2019: NLP: Nicht-wörtliche Semantik 2018/2019: NLP: Lexikalische Semantik  University of Düsseldorf (Information Science and Language Technology)  2018: Computational Lexical Semantics (with Younes Samih) 2017/2018: Mehrworteinheiten 2017: Komplexität und natürliche Sprache (with Christian Wurm) 2015/2016: Complexity in grammar 2014/2015: Tree Adjoining Grammars (with Kata Balogh) 2013/2014: Inkrementelle Syntax 2012/2013: Tree Adjoining Grammars (with Laura Kallmeyer) 2011: Grammatikimplementierung mit TAG  International schools  9th DGfS-CL Fall School 2017 (Düsseldorf, Germany): Grammar Implementation with Lexicalized Tree Adjoining Grammars and Frame Semantics (with Laura Kallmeyer, Rainer Osswald and Simon Petitjean) European Summer School of Logic, Language, and Information (ESSLLI 2015) (Barcelona, Spain): Working with Tree Adjoining Grammars (with Kata Balogh) 6th DGfS-CL Fall School 2011 (Zürich, Switzerland): Introduction to TAG (with Wolfgang Maier).</description>
+      <description>University of Bielefeld (Computational Linguistics)  2020/2021: Einführung in die Computerlinguistik und Texttechnologie (lecture) 2020/2021: Grammatikformalismen  University of Tübingen (Computer Science)  2020: NLP: Lexikalische Semantik 2020: NLP: Tiefe Satzanalyse 2019/2020: NLP: Praktische Einführung mit Python (lecture) 2019/2020: NLP: Tiefe Satzanalyse 2019: NLP: Tiefe Satzanalyse 2019: NLP: Nicht-wörtliche Semantik 2018/2019: NLP: Lexikalische Semantik  University of Düsseldorf (Information Science and Language Technology)  2018: Computational Lexical Semantics (with Younes Samih) 2017/2018: Mehrworteinheiten 2017: Komplexität und natürliche Sprache (with Christian Wurm) 2015/2016: Complexity in grammar 2014/2015: Tree Adjoining Grammars (with Kata Balogh) 2013/2014: Inkrementelle Syntax 2012/2013: Tree Adjoining Grammars (with Laura Kallmeyer) 2011: Grammatikimplementierung mit TAG  International schools  9th DGfS-CL Fall School 2017 (Düsseldorf, Germany): Grammar Implementation with Lexicalized Tree Adjoining Grammars and Frame Semantics (with Laura Kallmeyer, Rainer Osswald and Simon Petitjean) European Summer School of Logic, Language, and Information (ESSLLI 2015) (Barcelona, Spain): Working with Tree Adjoining Grammars (with Kata Balogh) 6th DGfS-CL Fall School 2011 (Zürich, Switzerland): Introduction to TAG (with Wolfgang Maier).</description>
     </item>
     
     <item>
@@ -34,22 +44,12 @@
     
     <item>
       <title>Privacy</title>
-      <link>http://timm-lichte.de/posts/privacy/</link>
-      <pubDate>Fri, 12 Jun 2020 11:28:08 +0200</pubDate>
+      <link>http://timm-lichte.de/privacy/privacy/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0200</pubDate>
       
-      <guid>http://timm-lichte.de/posts/privacy/</guid>
+      <guid>http://timm-lichte.de/privacy/privacy/</guid>
       <description>Data Protection Policy (GDPR) This website does not collect, store or process Personally Identifiable Information (PII). This website does not require the use of cookies.
 Third Party Inclusion This website is hosted by Github using Github Pages. The Github Global Privacy Practices are available here.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://timm-lichte.de/about/about/</link>
-      <pubDate>Fri, 05 Jun 2020 23:08:39 +0200</pubDate>
-      
-      <guid>http://timm-lichte.de/about/about/</guid>
-      <description>As of September 2018, I’m coordinator at the Department of Computer Science at the University of Tübingen.
-Before that, I was postdoc researcher and principal investigator in project A02 of the CRC991 at the University of Düsseldorf. Before that, I did my PhD within Laura Kallmeyer’s Emmy Noether project at the University of Tübingen. Before that I had been studying General Linguistics, Rhetorics and Computer Science in Tübingen and Berlin.</description>
     </item>
     
     <item>
@@ -71,6 +71,25 @@ Language resources  COLF-VID: Corpus of Literal and Figurative Readings PARSEME 
       <description>Talks &amp;amp; Presentations Timm Lichte. 2018. Incremental inference-based MWE processing with TUCO. Talk at Cognitive Structures: Linguistic, Philosophical and Psychological Perspectives (CoSt 2018). 12.–14. September 2018, Düsseldorf.
 Timm Lichte &amp;amp; Christian Wurm. 2018. Meaning and Combinatorics of Ambiguity. Poster at the Ambigo Workshop, 4.–6. July 2018, University of Göttingen.
 Fabienne Cap, Rafael Ehren, Maximilian Köper, Timm Lichte, Sabine Schulte im Walde &amp;amp; Heike Zinsmeister. 2018. VerbCompoCor: A German Corpus with Compositionality Judgments for Verb-Dependent Pairs.</description>
+    </item>
+    
+    <item>
+      <title>Substitute professorship at the University of Bielefeld</title>
+      <link>http://timm-lichte.de/posts/substitute-professorship-bielefeld/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0200</pubDate>
+      
+      <guid>http://timm-lichte.de/posts/substitute-professorship-bielefeld/</guid>
+      <description>In the winter term 2020/2021, I will fill a substitute professorship (50%) on &amp;ldquo;Applied Computational Linguistics&amp;rdquo; at the University of Bielefeld. I&amp;rsquo;m looking forward to teaching an introductory lecture on computational linguistics and a seminar on grammar formalisms.
+See the teaching section for more details.</description>
+    </item>
+    
+    <item>
+      <title>Launch of the new website</title>
+      <link>http://timm-lichte.de/posts/launch-of-the-new-website/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0200</pubDate>
+      
+      <guid>http://timm-lichte.de/posts/launch-of-the-new-website/</guid>
+      <description>After having used WordPress for a couple of years now, it was time for a change. WordPress is a beast and I realized that I didn&amp;rsquo;t require a powerful CMS for just a couple of pages that are more or less static. Moreover, maintaining WordPress and not being able to use it from my favourite text editor was getting more and more painful. I therefore decided to switch to Hugo, which is a powerful, but entirely static, website generator.</description>
     </item>
     
   </channel>

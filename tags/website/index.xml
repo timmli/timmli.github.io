@@ -27,7 +27,7 @@ Before that, I was postdoc researcher and principal investigator in project A02 
       <pubDate>Sat, 06 Jun 2020 00:00:00 +0200</pubDate>
       
       <guid>http://timm-lichte.de/posts/launch-of-the-new-website/</guid>
-      <description>After having used WordPress for a couple of years now, it was time for a change. WordPress is a beast and I realized that I didn&amp;rsquo;t require a omnipotent CMS for just a couple of pages that are more or less static. Moreover, maintaining WordPress and not being able to use it from my favourite text editor was getting more and more painful. I therefore decided to switch to Hugo, which is a powerful, but entirely static, website generator.</description>
+      <description>After having used WordPress for a couple of years now, it was time for a change. WordPress is a beast and I realized that I didn&amp;rsquo;t require a omnipotent CMS for just a couple of pages that are more or less static. More importantly, maintaining WordPress and not being able to use it from my favourite text editor was getting more and more painful. I therefore decided to switch to Hugo, which is a powerful, but entirely static, website generator.</description>
     </item>
     
   </channel>

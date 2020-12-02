@@ -6,10 +6,21 @@
     <description>Recent content in research on Timm Lichte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Oct 2020 22:56:36 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 19:16:41 +0100</lastBuildDate>
     
 	<atom:link href="http://timm-lichte.de/tags/research/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Publications</title>
+      <link>http://timm-lichte.de/publications/publications/</link>
+      <pubDate>Wed, 02 Dec 2020 19:16:41 +0100</pubDate>
+      
+      <guid>http://timm-lichte.de/publications/publications/</guid>
+      <description>The used citation style is the Unified Style Sheet for Linguistics.
+\(\rightarrow\) CSL, BibLaTeX, support for Jabref and Papercite
+2020 Carlos Ramisch, Agata Savary, Bruno Guillaume, Jakub Waszczuk, Marie Candito, Ashwini Vaidya, Verginica Barbu Mititelu, Archna Bhatia, Uxoa Iñurrieta, Voula Giouli, Tunga Gungor, Menghan Jiang, Timm Lichte, Chaya Liebeskind, Johanna Monti, Renata Ramisch, Sara Stymne, Abigail Walsh, Hongzhi Xu. In Proceedings of the Joint Workshop on Multiword Expressions and Electronic Lexicons, 107–108.</description>
+    </item>
     
     <item>
       <title>About</title>
@@ -19,18 +30,6 @@
       <guid>http://timm-lichte.de/about/about/</guid>
       <description>As of September 2018, I&amp;rsquo;m coordinator of the Department of Computer Science at the University of Tübingen. Currently, I&amp;rsquo;m furthermore filling a substitute professorship (50%) on &amp;ldquo;Applied Computational Linguistics&amp;rdquo; at the University of Bielefeld.
 Before that, I was postdoc researcher and principal investigator in project A02 of the CRC991 at the University of Düsseldorf. Before that, I did my PhD within Laura Kallmeyer’s Emmy Noether project at the University of Tübingen.</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>http://timm-lichte.de/publications/publications/</link>
-      <pubDate>Thu, 02 Jul 2020 21:56:13 +0200</pubDate>
-      
-      <guid>http://timm-lichte.de/publications/publications/</guid>
-      <description>The used citation style is the Unified Style Sheet for Linguistics.
-\(\rightarrow\) CSL, BibLaTeX, support for Jabref and Papercite
-2020 Ehren, Rafael, Timm Lichte, Laura Kallmeyer &amp;amp; Jakub Waszczuk. 2020. Supervised Disambiguation of German Verbal Idioms with a BiLSTM Architecture. In Proceedings of the Second Workshop on Figurative Language Processing, 211–220. Online: Association for Computational Linguistics. https://www.aclweb.org/anthology/2020.figlang-1.29.
-2019 Lichte, Timm, Simon Petitjean, Agata Savary &amp;amp; Jakub Waszczuk. 2019. Lexical encoding formats for multi-word expressions: The challenge of “irregular” regularities.</description>
     </item>
     
     <item>

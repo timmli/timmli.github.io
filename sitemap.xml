@@ -1,119 +1,73 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>http://timm-lichte.de/publications/publications/</loc>
-    <lastmod>2021-02-07T12:55:20+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://timm-lichte.de/about/about/</loc>
-    <lastmod>2020-10-18T22:56:36+02:00</lastmod>
-  </url>
-  
   <url>
     <loc>http://timm-lichte.de/teaching/teaching/</loc>
-    <lastmod>2020-10-18T20:43:41+02:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-03-11T10:50:31+01:00</lastmod>
+  </url><url>
+    <loc>http://timm-lichte.de/publications/publications/</loc>
+    <lastmod>2021-02-07T12:55:20+01:00</lastmod>
+  </url><url>
+    <loc>http://timm-lichte.de/about/about/</loc>
+    <lastmod>2020-10-18T22:56:36+02:00</lastmod>
+  </url><url>
     <loc>http://timm-lichte.de/privacy/privacy/</loc>
     <lastmod>2020-10-18T22:23:59+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://timm-lichte.de/software/software/</loc>
     <lastmod>2020-06-05T17:57:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://timm-lichte.de/events/events/</loc>
     <lastmod>2020-06-05T17:53:34+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://timm-lichte.de/posts/substitute-professorship-bielefeld/</loc>
     <lastmod>2020-10-18T22:07:04+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://timm-lichte.de/posts/launch-of-the-new-website/</loc>
     <lastmod>2020-10-18T23:05:43+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>http://timm-lichte.de/tags/</loc>
+    <lastmod>2021-03-11T10:50:31+01:00</lastmod>
+  </url><url>
+    <loc>http://timm-lichte.de/tags/teaching/</loc>
+    <lastmod>2021-03-11T10:50:31+01:00</lastmod>
+  </url><url>
+    <loc>http://timm-lichte.de/teaching/</loc>
+    <lastmod>2021-03-11T10:50:31+01:00</lastmod>
+  </url><url>
+    <loc>http://timm-lichte.de/</loc>
+    <lastmod>2021-03-11T10:50:31+01:00</lastmod>
+  </url><url>
     <loc>http://timm-lichte.de/publications/</loc>
     <lastmod>2021-02-07T12:55:20+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://timm-lichte.de/tags/research/</loc>
     <lastmod>2021-02-07T12:55:20+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://timm-lichte.de/tags/</loc>
-    <lastmod>2021-02-07T12:55:20+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://timm-lichte.de/</loc>
-    <lastmod>2021-02-07T12:55:20+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://timm-lichte.de/about/</loc>
     <lastmod>2020-10-18T22:56:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://timm-lichte.de/tags/teaching/</loc>
-    <lastmod>2020-10-18T22:56:36+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://timm-lichte.de/tags/website/</loc>
     <lastmod>2020-10-18T23:05:43+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://timm-lichte.de/teaching/</loc>
-    <lastmod>2020-10-18T20:43:41+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://timm-lichte.de/posts/</loc>
     <lastmod>2020-10-18T23:05:43+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://timm-lichte.de/privacy/</loc>
     <lastmod>2020-10-18T22:23:59+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://timm-lichte.de/tags/emacs/</loc>
     <lastmod>2020-06-05T17:57:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://timm-lichte.de/tags/latex/</loc>
     <lastmod>2020-06-05T17:57:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://timm-lichte.de/software/</loc>
     <lastmod>2020-06-05T17:57:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://timm-lichte.de/events/</loc>
     <lastmod>2020-06-05T17:53:34+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://timm-lichte.de/categories/</loc>
   </url>
-  
 </urlset>

@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://timm-lichte.de/teaching/teaching/</loc>
-    <lastmod>2021-03-11T10:50:31+01:00</lastmod>
+    <loc>http://timm-lichte.de/publications/publications/</loc>
+    <lastmod>2021-03-31T00:59:15+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://timm-lichte.de/publications/publications/</loc>
-    <lastmod>2021-02-07T12:55:20+01:00</lastmod>
+    <loc>http://timm-lichte.de/teaching/teaching/</loc>
+    <lastmod>2021-03-11T10:50:31+01:00</lastmod>
   </url>
   
   <url>
@@ -43,8 +43,23 @@
   </url>
   
   <url>
+    <loc>http://timm-lichte.de/publications/</loc>
+    <lastmod>2021-03-31T00:59:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://timm-lichte.de/tags/research/</loc>
+    <lastmod>2021-03-31T00:59:15+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://timm-lichte.de/tags/</loc>
-    <lastmod>2021-03-11T10:50:31+01:00</lastmod>
+    <lastmod>2021-03-31T00:59:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://timm-lichte.de/</loc>
+    <lastmod>2021-03-31T00:59:15+02:00</lastmod>
   </url>
   
   <url>
@@ -55,21 +70,6 @@
   <url>
     <loc>http://timm-lichte.de/teaching/</loc>
     <lastmod>2021-03-11T10:50:31+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://timm-lichte.de/</loc>
-    <lastmod>2021-03-11T10:50:31+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://timm-lichte.de/publications/</loc>
-    <lastmod>2021-02-07T12:55:20+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://timm-lichte.de/tags/research/</loc>
-    <lastmod>2021-02-07T12:55:20+01:00</lastmod>
   </url>
   
   <url>

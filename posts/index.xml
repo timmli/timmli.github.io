@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Timm Lichte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Oct 2020 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 17 May 2021 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://timm-lichte.de/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Shared Task at KONVENS 2021</title>
+      <link>http://timm-lichte.de/posts/shared-task-konvens-2021/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0200</pubDate>
+      
+      <guid>http://timm-lichte.de/posts/shared-task-konvens-2021/</guid>
+      <description>Together with Rafaehl Ehren, Kuba Waszczuk and Laura Kallmeyer, I&amp;rsquo;m currently organizing a shared task at KONVENS 2021 that aims at distinguishing literal and idiomatic occurrence of German verbal multi-word expressions, so-called verbal idioms (VIDs), in running text. For example, the VID Das Konzert fiel ins Wasser (&amp;lsquo;The concert was canceled&amp;rsquo;) has literal counterparts such as Das Handy fiel ins Wasser (&amp;lsquo;The mobile phone fell into the water&amp;rsquo;). Since literal occurrences tend to be relatively infrequent with most VID, we have assembled a data set (by merging COLF-VID and data from the German SemEval-2013 task 5b) which tries to keep the idiomaticity rate reasonably low in order to allow for a meaningful comparison of disambiguation systems.</description>
+    </item>
     
     <item>
       <title>Substitute professorship at the University of Bielefeld</title>

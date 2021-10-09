@@ -6,11 +6,7 @@
     <description>Recent content on Timm Lichte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 May 2021 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="http://timm-lichte.de/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 17 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://timm-lichte.de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>http://timm-lichte.de/about/about/</link>
@@ -45,7 +41,7 @@ To appear Lichte, Timm. To appear. Against strict headedness in syntax. Journal 
     <item>
       <title>Privacy</title>
       <link>http://timm-lichte.de/privacy/privacy/</link>
-      <pubDate>Sat, 06 Jun 2020 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>http://timm-lichte.de/privacy/privacy/</guid>
       <description>Data Protection Policy (GDPR) This website does not collect, store or process Personally Identifiable Information (PII). This website does not require the use of cookies.
@@ -76,7 +72,7 @@ Fabienne Cap, Rafael Ehren, Maximilian Köper, Timm Lichte, Sabine Schulte im Wa
     <item>
       <title>Shared Task at KONVENS 2021</title>
       <link>http://timm-lichte.de/posts/shared-task-konvens-2021/</link>
-      <pubDate>Mon, 17 May 2021 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
       
       <guid>http://timm-lichte.de/posts/shared-task-konvens-2021/</guid>
       <description>Together with Rafael Ehren, Kuba Waszczuk and Laura Kallmeyer, I&amp;rsquo;m currently organizing a shared task at KONVENS 2021 that aims at disambiguating literal and idiomatic occurrence of German verbal multi-word expressions, so-called verbal idioms (VIDs), in running text. An example would be the VID Das Konzert fiel ins Wasser (&amp;lsquo;The concert was canceled&amp;rsquo;) as opposed to literal counterparts such as Das Handy fiel ins Wasser (&amp;lsquo;The mobile phone fell into the water&amp;rsquo;).</description>
@@ -85,7 +81,7 @@ Fabienne Cap, Rafael Ehren, Maximilian Köper, Timm Lichte, Sabine Schulte im Wa
     <item>
       <title>Substitute professorship at the University of Bielefeld</title>
       <link>http://timm-lichte.de/posts/substitute-professorship-bielefeld/</link>
-      <pubDate>Sun, 18 Oct 2020 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>http://timm-lichte.de/posts/substitute-professorship-bielefeld/</guid>
       <description>In the winter term 2020/2021, I will fill a substitute professorship (50%) on &amp;ldquo;Applied Computational Linguistics&amp;rdquo; at the University of Bielefeld. I&amp;rsquo;m looking forward to teaching an introductory lecture on computational linguistics and a seminar on grammar formalisms.
@@ -95,7 +91,7 @@ See the teaching section for more details.</description>
     <item>
       <title>Launch of the new website</title>
       <link>http://timm-lichte.de/posts/launch-of-the-new-website/</link>
-      <pubDate>Sat, 06 Jun 2020 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>http://timm-lichte.de/posts/launch-of-the-new-website/</guid>
       <description>After having used WordPress for a couple of years now, it was time for a change. WordPress is a beast and I realized that I didn&amp;rsquo;t require a omnipotent CMS for just a couple of pages that are more or less static. More importantly, maintaining WordPress and not being able to use it from my favourite text editor was getting more and more painful. I therefore decided to switch to Hugo, which is a powerful, but entirely static, website generator.</description>

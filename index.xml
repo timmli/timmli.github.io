@@ -6,7 +6,17 @@
     <description>Recent content on Timm Lichte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Nov 2021 09:22:42 +0100</lastBuildDate><atom:link href="http://timm-lichte.de/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Nov 2021 10:00:00 +0100</lastBuildDate><atom:link href="http://timm-lichte.de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publications</title>
+      <link>http://timm-lichte.de/publications/publications/</link>
+      <pubDate>Sun, 07 Nov 2021 10:00:00 +0100</pubDate>
+      
+      <guid>http://timm-lichte.de/publications/publications/</guid>
+      <description>&lt;h2 id=&#34;to-appear&#34;&gt;To appear&lt;/h2&gt;
+&lt;p&gt;Lichte, Timm. To appear. Against strict headedness in syntax. Journal of Language Modelling.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Teaching</title>
       <link>http://timm-lichte.de/teaching/teaching/</link>
@@ -39,18 +49,6 @@ Note that the deadline for submissions is November 23, 2021.</description>
       <guid>http://timm-lichte.de/about/about/</guid>
       <description>As of September 2018, I&amp;rsquo;m coordinator of the Department of Computer Science at the University of Tübingen.
 Before that, I was postdoc researcher and principal investigator in project A02 of the CRC991 at the University of Düsseldorf. Before that, I did my PhD within Laura Kallmeyer’s Emmy Noether project at the University of Tübingen. Before that I had been studying General Linguistics, Rhetorics and Computer Science in Tübingen and Berlin.</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>http://timm-lichte.de/publications/publications/</link>
-      <pubDate>Wed, 31 Mar 2021 00:59:15 +0200</pubDate>
-      
-      <guid>http://timm-lichte.de/publications/publications/</guid>
-      <description>The used citation style is the Unified Style Sheet for Linguistics.
-\(\rightarrow\) CSL, BibLaTeX, support for Jabref and Papercite, plain-text converter
-To appear Lichte, Timm. To appear. Against strict headedness in syntax. Journal of Language Modelling.
-2020 Carlos Ramisch, Agata Savary, Bruno Guillaume, Jakub Waszczuk, Marie Candito, Ashwini Vaidya, Verginica Barbu Mititelu, Archna Bhatia, Uxoa Iñurrieta, Voula Giouli, Tunga Gungor, Menghan Jiang, Timm Lichte, Chaya Liebeskind, Johanna Monti, Renata Ramisch, Sara Stymne, Abigail Walsh, Hongzhi Xu.</description>
     </item>
     
     <item>

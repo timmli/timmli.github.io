@@ -6,17 +6,15 @@
     <description>Recent content in Publications on Timm Lichte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Mar 2021 00:59:15 +0200</lastBuildDate><atom:link href="http://timm-lichte.de/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Nov 2021 10:00:00 +0100</lastBuildDate><atom:link href="http://timm-lichte.de/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publications</title>
       <link>http://timm-lichte.de/publications/publications/</link>
-      <pubDate>Wed, 31 Mar 2021 00:59:15 +0200</pubDate>
+      <pubDate>Sun, 07 Nov 2021 10:00:00 +0100</pubDate>
       
       <guid>http://timm-lichte.de/publications/publications/</guid>
-      <description>The used citation style is the Unified Style Sheet for Linguistics.
-\(\rightarrow\) CSL, BibLaTeX, support for Jabref and Papercite, plain-text converter
-To appear Lichte, Timm. To appear. Against strict headedness in syntax. Journal of Language Modelling.
-2020 Carlos Ramisch, Agata Savary, Bruno Guillaume, Jakub Waszczuk, Marie Candito, Ashwini Vaidya, Verginica Barbu Mititelu, Archna Bhatia, Uxoa Iñurrieta, Voula Giouli, Tunga Gungor, Menghan Jiang, Timm Lichte, Chaya Liebeskind, Johanna Monti, Renata Ramisch, Sara Stymne, Abigail Walsh, Hongzhi Xu.</description>
+      <description>&lt;h2 id=&#34;to-appear&#34;&gt;To appear&lt;/h2&gt;
+&lt;p&gt;Lichte, Timm. To appear. Against strict headedness in syntax. Journal of Language Modelling.&lt;/p&gt;</description>
     </item>
     
   </channel>

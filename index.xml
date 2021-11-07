@@ -6,7 +6,7 @@
     <description>Recent content on Timm Lichte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Oct 2021 23:29:12 +0200</lastBuildDate><atom:link href="http://timm-lichte.de/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://timm-lichte.de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Teaching</title>
       <link>http://timm-lichte.de/teaching/teaching/</link>
@@ -67,6 +67,17 @@ Language resources  COLF-VID: Corpus of Literal and Figurative Readings PARSEME 
       <description>Talks &amp;amp; Presentations Timm Lichte. 2018. Incremental inference-based MWE processing with TUCO. Talk at Cognitive Structures: Linguistic, Philosophical and Psychological Perspectives (CoSt 2018). 12.–14. September 2018, Düsseldorf.
 Timm Lichte &amp;amp; Christian Wurm. 2018. Meaning and Combinatorics of Ambiguity. Poster at the Ambigo Workshop, 4.–6. July 2018, University of Göttingen.
 Fabienne Cap, Rafael Ehren, Maximilian Köper, Timm Lichte, Sabine Schulte im Walde &amp;amp; Heike Zinsmeister. 2018. VerbCompoCor: A German Corpus with Compositionality Judgments for Verb-Dependent Pairs.</description>
+    </item>
+    
+    <item>
+      <title>Poster session at DGfS 2022</title>
+      <link>http://timm-lichte.de/posts/poster-session-dgfs-2022/</link>
+      <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://timm-lichte.de/posts/poster-session-dgfs-2022/</guid>
+      <description>Together with Rainer Osswald, I am organizing the computational linguistics poster session at the 44th annual meeting of the German Linguistic Society (DGfS) in Tübingen which will be held online. The poster session is organized by the Special Interest Group on Computational Linguistics of the DGfS.
+The call for abstracts can be found here: https://uni-tuebingen.de/de/220206
+Note that the deadline for submissions is November 23, 2021.</description>
     </item>
     
     <item>

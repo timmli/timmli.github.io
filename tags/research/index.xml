@@ -6,7 +6,18 @@
     <description>Recent content in research on Timm Lichte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Nov 2021 10:00:00 +0100</lastBuildDate><atom:link href="http://timm-lichte.de/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Nov 2021 10:11:23 +0100</lastBuildDate><atom:link href="http://timm-lichte.de/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Events</title>
+      <link>http://timm-lichte.de/events/events/</link>
+      <pubDate>Sun, 07 Nov 2021 10:11:23 +0100</pubDate>
+      
+      <guid>http://timm-lichte.de/events/events/</guid>
+      <description>Talks &amp;amp; Presentations Timm Lichte &amp;amp; Laura Kallmeyer. 2021. The (putative) limits of inheritance in constructionist grammar theories. Talk at the Workshop &amp;ldquo;Constructional approaches in Formal Grammar&amp;rdquo; of the International Conference on Construction Grammar (ICCG11). 20. August 2021, Antwerpen.
+Timm Lichte. 2018. Incremental inference-based MWE processing with TUCO. Talk at Cognitive Structures: Linguistic, Philosophical and Psychological Perspectives (CoSt 2018). 12.–14. September 2018, Düsseldorf.
+Timm Lichte &amp;amp; Christian Wurm. 2018. Meaning and Combinatorics of Ambiguity.</description>
+    </item>
+    
     <item>
       <title>Publications</title>
       <link>http://timm-lichte.de/publications/publications/</link>
@@ -46,17 +57,6 @@ Before that, I was postdoc researcher and principal investigator in project A02 
       <guid>http://timm-lichte.de/software/software/</guid>
       <description>I&amp;rsquo;ve been involved in the creation of the following software and resources.
 Language resources  COLF-VID: Corpus of Literal and Figurative Readings PARSEME Shared Task: Corpus of German idioms  Grammar engineering  XMG-WebGUI: A web GUI for compiling and displaying metagrammars written with XMG. TuLiPA: A parsing environment for variants of Tree-Adjoining Grammar.  LaTeX  LaTeX templates Langscibook class: The book template of Language Science Press.  Emacs  org-fm: Fast minutes with org-fm  </description>
-    </item>
-    
-    <item>
-      <title>Events</title>
-      <link>http://timm-lichte.de/events/events/</link>
-      <pubDate>Fri, 05 Jun 2020 17:53:34 +0200</pubDate>
-      
-      <guid>http://timm-lichte.de/events/events/</guid>
-      <description>Talks &amp;amp; Presentations Timm Lichte. 2018. Incremental inference-based MWE processing with TUCO. Talk at Cognitive Structures: Linguistic, Philosophical and Psychological Perspectives (CoSt 2018). 12.–14. September 2018, Düsseldorf.
-Timm Lichte &amp;amp; Christian Wurm. 2018. Meaning and Combinatorics of Ambiguity. Poster at the Ambigo Workshop, 4.–6. July 2018, University of Göttingen.
-Fabienne Cap, Rafael Ehren, Maximilian Köper, Timm Lichte, Sabine Schulte im Walde &amp;amp; Heike Zinsmeister. 2018. VerbCompoCor: A German Corpus with Compositionality Judgments for Verb-Dependent Pairs.</description>
     </item>
     
     <item>

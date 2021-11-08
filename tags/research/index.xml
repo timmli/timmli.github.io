@@ -6,7 +6,19 @@
     <description>Recent content in research on Timm Lichte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Aug 2021 10:14:36 +0100</lastBuildDate><atom:link href="http://timm-lichte.de/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Nov 2021 17:46:02 +0100</lastBuildDate><atom:link href="http://timm-lichte.de/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publications</title>
+      <link>http://timm-lichte.de/publications/publications/</link>
+      <pubDate>Mon, 08 Nov 2021 17:46:02 +0100</pubDate>
+      
+      <guid>http://timm-lichte.de/publications/publications/</guid>
+      <description>&lt;h2 id=&#34;to-appear&#34;&gt;To appear&lt;/h2&gt;
+&lt;p&gt;Lichte, Timm. To appear. Against strict headedness in syntax. Journal of Language Modelling.&lt;/p&gt;
+&lt;h2 id=&#34;2021&#34;&gt;2021&lt;/h2&gt;
+&lt;p&gt;Ehren, Rafael, Timm Lichte, Jakub Waszczuk &amp;amp; Laura Kallmeyer. 2021. Shared Task on the Disambiguation of German Verbal Idioms at KONVENS 2021. In Proceedings of the Shared Task on the Disambiguation of German Verbal Idioms at KONVENS 2021. &lt;a href=&#34;https://konvens.org/proceedings/2021/index.html&#34;&gt;https://konvens.org/proceedings/2021/index.html&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Events</title>
       <link>http://timm-lichte.de/events/events/</link>
@@ -34,16 +46,6 @@
       <guid>http://timm-lichte.de/about/about/</guid>
       <description>As of September 2018, I&amp;rsquo;m coordinator of the Department of Computer Science at the University of Tübingen.
 Before that, I was postdoc researcher and principal investigator in project A02 of the CRC991 at the University of Düsseldorf. Before that, I did my PhD within Laura Kallmeyer’s Emmy Noether project at the University of Tübingen. Before that I had been studying General Linguistics, Rhetorics and Computer Science in Tübingen and Berlin.</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>http://timm-lichte.de/publications/publications/</link>
-      <pubDate>Thu, 01 Apr 2021 10:00:00 +0100</pubDate>
-      
-      <guid>http://timm-lichte.de/publications/publications/</guid>
-      <description>&lt;h2 id=&#34;to-appear&#34;&gt;To appear&lt;/h2&gt;
-&lt;p&gt;Lichte, Timm. To appear. Against strict headedness in syntax. Journal of Language Modelling.&lt;/p&gt;</description>
     </item>
     
     <item>

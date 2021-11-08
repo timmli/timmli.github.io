@@ -6,15 +6,17 @@
     <description>Recent content in Publications on Timm Lichte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Apr 2021 10:00:00 +0100</lastBuildDate><atom:link href="http://timm-lichte.de/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Nov 2021 17:46:02 +0100</lastBuildDate><atom:link href="http://timm-lichte.de/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publications</title>
       <link>http://timm-lichte.de/publications/publications/</link>
-      <pubDate>Thu, 01 Apr 2021 10:00:00 +0100</pubDate>
+      <pubDate>Mon, 08 Nov 2021 17:46:02 +0100</pubDate>
       
       <guid>http://timm-lichte.de/publications/publications/</guid>
       <description>&lt;h2 id=&#34;to-appear&#34;&gt;To appear&lt;/h2&gt;
-&lt;p&gt;Lichte, Timm. To appear. Against strict headedness in syntax. Journal of Language Modelling.&lt;/p&gt;</description>
+&lt;p&gt;Lichte, Timm. To appear. Against strict headedness in syntax. Journal of Language Modelling.&lt;/p&gt;
+&lt;h2 id=&#34;2021&#34;&gt;2021&lt;/h2&gt;
+&lt;p&gt;Ehren, Rafael, Timm Lichte, Jakub Waszczuk &amp;amp; Laura Kallmeyer. 2021. Shared Task on the Disambiguation of German Verbal Idioms at KONVENS 2021. In Proceedings of the Shared Task on the Disambiguation of German Verbal Idioms at KONVENS 2021. &lt;a href=&#34;https://konvens.org/proceedings/2021/index.html&#34;&gt;https://konvens.org/proceedings/2021/index.html&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
   </channel>

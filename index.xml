@@ -20,6 +20,17 @@
     </item>
     
     <item>
+      <title>Poster session at DGfS 2022</title>
+      <link>http://timm-lichte.de/posts/poster-session-dgfs-2022/</link>
+      <pubDate>Sun, 07 Nov 2021 00:00:00 +0100</pubDate>
+      
+      <guid>http://timm-lichte.de/posts/poster-session-dgfs-2022/</guid>
+      <description>Together with Rainer Osswald, I am organizing the computational linguistics poster session at the 44th annual meeting of the German Linguistic Society (DGfS) in Tübingen which will be held online. The poster session is organized by the Special Interest Group on Computational Linguistics of the DGfS.
+The call for abstracts can be found here: https://uni-tuebingen.de/de/220206
+Note that the deadline for submissions is November 23, 2021.</description>
+    </item>
+    
+    <item>
       <title>Teaching</title>
       <link>http://timm-lichte.de/teaching/teaching/</link>
       <pubDate>Tue, 07 Sep 2021 10:18:36 +0100</pubDate>
@@ -79,17 +90,6 @@ Third Party Inclusion This website is hosted by Github using Github Pages. The G
       <guid>http://timm-lichte.de/software/software/</guid>
       <description>I&amp;rsquo;ve been involved in the creation of the following software and resources.
 Language resources  COLF-VID: Corpus of Literal and Figurative Readings PARSEME Shared Task: Corpus of German idioms  Grammar engineering  XMG-WebGUI: A web GUI for compiling and displaying metagrammars written with XMG. TuLiPA: A parsing environment for variants of Tree-Adjoining Grammar.  LaTeX  LaTeX templates Langscibook class: The book template of Language Science Press.  Emacs  org-fm: Fast minutes with org-fm  </description>
-    </item>
-    
-    <item>
-      <title>Poster session at DGfS 2022</title>
-      <link>http://timm-lichte.de/posts/poster-session-dgfs-2022/</link>
-      <pubDate>Mon, 17 May 2021 00:00:00 +0200</pubDate>
-      
-      <guid>http://timm-lichte.de/posts/poster-session-dgfs-2022/</guid>
-      <description>Together with Rainer Osswald, I am organizing the computational linguistics poster session at the 44th annual meeting of the German Linguistic Society (DGfS) in Tübingen which will be held online. The poster session is organized by the Special Interest Group on Computational Linguistics of the DGfS.
-The call for abstracts can be found here: https://uni-tuebingen.de/de/220206
-Note that the deadline for submissions is November 23, 2021.</description>
     </item>
     
     <item>

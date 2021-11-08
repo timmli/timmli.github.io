@@ -6,7 +6,18 @@
     <description>Recent content in Posts on Timm Lichte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 May 2021 00:00:00 +0200</lastBuildDate><atom:link href="http://timm-lichte.de/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Nov 2021 00:00:00 +0100</lastBuildDate><atom:link href="http://timm-lichte.de/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Poster session at DGfS 2022</title>
+      <link>http://timm-lichte.de/posts/poster-session-dgfs-2022/</link>
+      <pubDate>Sun, 07 Nov 2021 00:00:00 +0100</pubDate>
+      
+      <guid>http://timm-lichte.de/posts/poster-session-dgfs-2022/</guid>
+      <description>Together with Rainer Osswald, I am organizing the computational linguistics poster session at the 44th annual meeting of the German Linguistic Society (DGfS) in Tübingen which will be held online. The poster session is organized by the Special Interest Group on Computational Linguistics of the DGfS.
+The call for abstracts can be found here: https://uni-tuebingen.de/de/220206
+Note that the deadline for submissions is November 23, 2021.</description>
+    </item>
+    
     <item>
       <title>Shared Task at KONVENS 2021</title>
       <link>http://timm-lichte.de/posts/shared-task-konvens-2021/</link>
@@ -14,17 +25,6 @@
       
       <guid>http://timm-lichte.de/posts/shared-task-konvens-2021/</guid>
       <description>Together with Rafael Ehren, Kuba Waszczuk and Laura Kallmeyer, I&amp;rsquo;m currently organizing a shared task at KONVENS 2021 that aims at disambiguating literal and idiomatic occurrence of German verbal multi-word expressions, so-called verbal idioms (VIDs), in running text. An example would be the VID Das Konzert fiel ins Wasser (&amp;lsquo;The concert was canceled&amp;rsquo;) as opposed to literal counterparts such as Das Handy fiel ins Wasser (&amp;lsquo;The mobile phone fell into the water&amp;rsquo;).</description>
-    </item>
-    
-    <item>
-      <title>Poster session at DGfS 2022</title>
-      <link>http://timm-lichte.de/posts/poster-session-dgfs-2022/</link>
-      <pubDate>Mon, 17 May 2021 00:00:00 +0200</pubDate>
-      
-      <guid>http://timm-lichte.de/posts/poster-session-dgfs-2022/</guid>
-      <description>Together with Rainer Osswald, I am organizing the computational linguistics poster session at the 44th annual meeting of the German Linguistic Society (DGfS) in Tübingen which will be held online. The poster session is organized by the Special Interest Group on Computational Linguistics of the DGfS.
-The call for abstracts can be found here: https://uni-tuebingen.de/de/220206
-Note that the deadline for submissions is November 23, 2021.</description>
     </item>
     
     <item>

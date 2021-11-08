@@ -6,18 +6,7 @@
     <description>Recent content in research on Timm Lichte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://timm-lichte.de/tags/research/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Poster session at DGfS 2022</title>
-      <link>http://timm-lichte.de/posts/poster-session-dgfs-2022/</link>
-      <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://timm-lichte.de/posts/poster-session-dgfs-2022/</guid>
-      <description>Together with Rainer Osswald, I am organizing the computational linguistics poster session at the 44th annual meeting of the German Linguistic Society (DGfS) in Tübingen which will be held online. The poster session is organized by the Special Interest Group on Computational Linguistics of the DGfS.
-The call for abstracts can be found here: https://uni-tuebingen.de/de/220206
-Note that the deadline for submissions is November 23, 2021.</description>
-    </item>
-    
+    <lastBuildDate>Fri, 20 Aug 2021 10:14:36 +0100</lastBuildDate><atom:link href="http://timm-lichte.de/tags/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Events</title>
       <link>http://timm-lichte.de/events/events/</link>
@@ -26,6 +15,15 @@ Note that the deadline for submissions is November 23, 2021.</description>
       <guid>http://timm-lichte.de/events/events/</guid>
       <description>&lt;h2 id=&#34;talks-and-presentations&#34;&gt;Talks &amp;amp; Presentations&lt;/h2&gt;
 &lt;p&gt;Timm Lichte &amp;amp; Laura Kallmeyer. 2021. The (putative) limits of inheritance in constructionist grammar theories. Talk at the Workshop  &amp;ldquo;Constructional approaches in Formal Grammar&amp;rdquo; of the International Conference on Construction Grammar (ICCG11). 20. August 2021, Antwerpen.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shared Task at KONVENS 2021</title>
+      <link>http://timm-lichte.de/posts/shared-task-konvens-2021/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0200</pubDate>
+      
+      <guid>http://timm-lichte.de/posts/shared-task-konvens-2021/</guid>
+      <description>Together with Rafael Ehren, Kuba Waszczuk and Laura Kallmeyer, I&amp;rsquo;m currently organizing a shared task at KONVENS 2021 that aims at disambiguating literal and idiomatic occurrence of German verbal multi-word expressions, so-called verbal idioms (VIDs), in running text. An example would be the VID Das Konzert fiel ins Wasser (&amp;lsquo;The concert was canceled&amp;rsquo;) as opposed to literal counterparts such as Das Handy fiel ins Wasser (&amp;lsquo;The mobile phone fell into the water&amp;rsquo;).</description>
     </item>
     
     <item>
@@ -59,12 +57,14 @@ Language resources  COLF-VID: Corpus of Literal and Figurative Readings PARSEME 
     </item>
     
     <item>
-      <title>Shared Task at KONVENS 2021</title>
-      <link>http://timm-lichte.de/posts/shared-task-konvens-2021/</link>
-      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <title>Poster session at DGfS 2022</title>
+      <link>http://timm-lichte.de/posts/poster-session-dgfs-2022/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0200</pubDate>
       
-      <guid>http://timm-lichte.de/posts/shared-task-konvens-2021/</guid>
-      <description>Together with Rafael Ehren, Kuba Waszczuk and Laura Kallmeyer, I&amp;rsquo;m currently organizing a shared task at KONVENS 2021 that aims at disambiguating literal and idiomatic occurrence of German verbal multi-word expressions, so-called verbal idioms (VIDs), in running text. An example would be the VID Das Konzert fiel ins Wasser (&amp;lsquo;The concert was canceled&amp;rsquo;) as opposed to literal counterparts such as Das Handy fiel ins Wasser (&amp;lsquo;The mobile phone fell into the water&amp;rsquo;).</description>
+      <guid>http://timm-lichte.de/posts/poster-session-dgfs-2022/</guid>
+      <description>Together with Rainer Osswald, I am organizing the computational linguistics poster session at the 44th annual meeting of the German Linguistic Society (DGfS) in Tübingen which will be held online. The poster session is organized by the Special Interest Group on Computational Linguistics of the DGfS.
+The call for abstracts can be found here: https://uni-tuebingen.de/de/220206
+Note that the deadline for submissions is November 23, 2021.</description>
     </item>
     
   </channel>

@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://timm-lichte.de/posts/poster-session-dgfs-2022/</loc>
-    <lastmod>2021-11-07T09:43:11+01:00</lastmod>
-  </url><url>
     <loc>http://timm-lichte.de/teaching/teaching/</loc>
     <lastmod>2021-09-07T10:18:36+01:00</lastmod>
   </url><url>
     <loc>http://timm-lichte.de/events/events/</loc>
     <lastmod>2021-08-20T10:14:36+01:00</lastmod>
+  </url><url>
+    <loc>http://timm-lichte.de/posts/shared-task-konvens-2021/</loc>
+    <lastmod>2021-11-08T17:39:30+01:00</lastmod>
   </url><url>
     <loc>http://timm-lichte.de/about/about/</loc>
     <lastmod>2021-04-10T09:52:18+02:00</lastmod>
@@ -23,26 +23,17 @@
     <loc>http://timm-lichte.de/software/software/</loc>
     <lastmod>2020-06-05T17:57:16+02:00</lastmod>
   </url><url>
-    <loc>http://timm-lichte.de/posts/shared-task-konvens-2021/</loc>
-    <lastmod>2021-05-18T00:07:52+02:00</lastmod>
+    <loc>http://timm-lichte.de/posts/poster-session-dgfs-2022/</loc>
+    <lastmod>2021-11-07T08:01:38+01:00</lastmod>
   </url><url>
     <loc>http://timm-lichte.de/posts/substitute-professorship-bielefeld/</loc>
-    <lastmod>2021-05-18T00:06:53+02:00</lastmod>
+    <lastmod>2020-10-18T22:07:04+02:00</lastmod>
   </url><url>
     <loc>http://timm-lichte.de/posts/launch-of-the-new-website/</loc>
     <lastmod>2020-10-18T23:05:43+02:00</lastmod>
   </url><url>
-    <loc>http://timm-lichte.de/posts/</loc>
-    <lastmod>2021-11-07T09:43:11+01:00</lastmod>
-  </url><url>
-    <loc>http://timm-lichte.de/tags/research/</loc>
-    <lastmod>2021-11-07T09:43:11+01:00</lastmod>
-  </url><url>
     <loc>http://timm-lichte.de/tags/</loc>
-    <lastmod>2021-11-07T09:43:11+01:00</lastmod>
-  </url><url>
-    <loc>http://timm-lichte.de/</loc>
-    <lastmod>2021-11-07T09:43:11+01:00</lastmod>
+    <lastmod>2021-11-08T17:39:30+01:00</lastmod>
   </url><url>
     <loc>http://timm-lichte.de/tags/teaching/</loc>
     <lastmod>2021-09-07T10:18:36+01:00</lastmod>
@@ -50,8 +41,17 @@
     <loc>http://timm-lichte.de/teaching/</loc>
     <lastmod>2021-09-07T10:18:36+01:00</lastmod>
   </url><url>
+    <loc>http://timm-lichte.de/</loc>
+    <lastmod>2021-11-08T17:39:30+01:00</lastmod>
+  </url><url>
     <loc>http://timm-lichte.de/events/</loc>
     <lastmod>2021-08-20T10:14:36+01:00</lastmod>
+  </url><url>
+    <loc>http://timm-lichte.de/tags/research/</loc>
+    <lastmod>2021-11-08T17:39:30+01:00</lastmod>
+  </url><url>
+    <loc>http://timm-lichte.de/posts/</loc>
+    <lastmod>2021-11-08T17:39:30+01:00</lastmod>
   </url><url>
     <loc>http://timm-lichte.de/about/</loc>
     <lastmod>2021-04-10T09:52:18+02:00</lastmod>

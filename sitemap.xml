@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://timm-lichte.de/publications/publications/</loc>
+    <lastmod>2021-11-10T10:00:21+01:00</lastmod>
+  </url><url>
     <loc>http://timm-lichte.de/software/software/</loc>
     <lastmod>2021-11-08T18:04:59+01:00</lastmod>
-  </url><url>
-    <loc>http://timm-lichte.de/publications/publications/</loc>
-    <lastmod>2021-11-08T17:46:02+01:00</lastmod>
   </url><url>
     <loc>http://timm-lichte.de/posts/poster-session-dgfs-2022/</loc>
     <lastmod>2021-11-07T08:01:38+01:00</lastmod>
@@ -27,10 +27,22 @@
     <lastmod>2020-10-18T22:23:59+02:00</lastmod>
   </url><url>
     <loc>http://timm-lichte.de/posts/substitute-professorship-bielefeld/</loc>
-    <lastmod>2020-10-18T22:07:04+02:00</lastmod>
+    <lastmod>2021-05-18T00:06:53+02:00</lastmod>
   </url><url>
     <loc>http://timm-lichte.de/posts/launch-of-the-new-website/</loc>
     <lastmod>2020-10-18T23:05:43+02:00</lastmod>
+  </url><url>
+    <loc>http://timm-lichte.de/publications/</loc>
+    <lastmod>2021-11-10T10:00:21+01:00</lastmod>
+  </url><url>
+    <loc>http://timm-lichte.de/tags/research/</loc>
+    <lastmod>2021-11-10T10:00:21+01:00</lastmod>
+  </url><url>
+    <loc>http://timm-lichte.de/tags/</loc>
+    <lastmod>2021-11-10T10:00:21+01:00</lastmod>
+  </url><url>
+    <loc>http://timm-lichte.de/</loc>
+    <lastmod>2021-11-10T10:00:21+01:00</lastmod>
   </url><url>
     <loc>http://timm-lichte.de/tags/emacs/</loc>
     <lastmod>2021-11-08T18:04:59+01:00</lastmod>
@@ -38,20 +50,8 @@
     <loc>http://timm-lichte.de/tags/latex/</loc>
     <lastmod>2021-11-08T18:04:59+01:00</lastmod>
   </url><url>
-    <loc>http://timm-lichte.de/tags/research/</loc>
-    <lastmod>2021-11-08T18:04:59+01:00</lastmod>
-  </url><url>
     <loc>http://timm-lichte.de/software/</loc>
     <lastmod>2021-11-08T18:04:59+01:00</lastmod>
-  </url><url>
-    <loc>http://timm-lichte.de/tags/</loc>
-    <lastmod>2021-11-08T18:04:59+01:00</lastmod>
-  </url><url>
-    <loc>http://timm-lichte.de/</loc>
-    <lastmod>2021-11-08T18:04:59+01:00</lastmod>
-  </url><url>
-    <loc>http://timm-lichte.de/publications/</loc>
-    <lastmod>2021-11-08T17:46:02+01:00</lastmod>
   </url><url>
     <loc>http://timm-lichte.de/posts/</loc>
     <lastmod>2021-11-08T17:39:30+01:00</lastmod>

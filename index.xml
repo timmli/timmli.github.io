@@ -6,7 +6,19 @@
     <description>Recent content on Timm Lichte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Nov 2021 18:04:59 +0100</lastBuildDate><atom:link href="http://timm-lichte.de/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Nov 2021 10:00:21 +0100</lastBuildDate><atom:link href="http://timm-lichte.de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publications</title>
+      <link>http://timm-lichte.de/publications/publications/</link>
+      <pubDate>Wed, 10 Nov 2021 10:00:21 +0100</pubDate>
+      
+      <guid>http://timm-lichte.de/publications/publications/</guid>
+      <description>&lt;h2 id=&#34;to-appear&#34;&gt;To appear&lt;/h2&gt;
+&lt;p&gt;Lichte, Timm. To appear. Against strict headedness in syntax. Journal of Language Modelling.&lt;/p&gt;
+&lt;h2 id=&#34;2021&#34;&gt;2021&lt;/h2&gt;
+&lt;p&gt;Ehren, Rafael, Timm Lichte, Jakub Waszczuk &amp;amp; Laura Kallmeyer. 2021. Shared Task on the Disambiguation of German Verbal Idioms at KONVENS 2021. In Proceedings of the Shared Task on the Disambiguation of German Verbal Idioms at KONVENS 2021. &lt;a href=&#34;https://konvens.org/proceedings/2021/index.html&#34;&gt;https://konvens.org/proceedings/2021/index.html&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Software &amp; Resources</title>
       <link>http://timm-lichte.de/software/software/</link>
@@ -18,21 +30,9 @@ Language resources  COLF-VID &amp;amp; German SemEval-2013 task 5b: Data set of 
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>http://timm-lichte.de/publications/publications/</link>
-      <pubDate>Mon, 08 Nov 2021 17:46:02 +0100</pubDate>
-      
-      <guid>http://timm-lichte.de/publications/publications/</guid>
-      <description>&lt;h2 id=&#34;to-appear&#34;&gt;To appear&lt;/h2&gt;
-&lt;p&gt;Lichte, Timm. To appear. Against strict headedness in syntax. Journal of Language Modelling.&lt;/p&gt;
-&lt;h2 id=&#34;2021&#34;&gt;2021&lt;/h2&gt;
-&lt;p&gt;Ehren, Rafael, Timm Lichte, Jakub Waszczuk &amp;amp; Laura Kallmeyer. 2021. Shared Task on the Disambiguation of German Verbal Idioms at KONVENS 2021. In Proceedings of the Shared Task on the Disambiguation of German Verbal Idioms at KONVENS 2021. &lt;a href=&#34;https://konvens.org/proceedings/2021/index.html&#34;&gt;https://konvens.org/proceedings/2021/index.html&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Poster session at DGfS 2022</title>
       <link>http://timm-lichte.de/posts/poster-session-dgfs-2022/</link>
-      <pubDate>Sun, 07 Nov 2021 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>http://timm-lichte.de/posts/poster-session-dgfs-2022/</guid>
       <description>Together with Rainer Osswald, I am organizing the computational linguistics poster session at the 44th annual meeting of the German Linguistic Society (DGfS) in Tübingen which will be held online. The poster session is organized by the Special Interest Group on Computational Linguistics of the DGfS.
@@ -66,7 +66,7 @@ Note that the deadline for submissions is November 23, 2021.</description>
     <item>
       <title>Shared Task at KONVENS 2021</title>
       <link>http://timm-lichte.de/posts/shared-task-konvens-2021/</link>
-      <pubDate>Mon, 17 May 2021 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
       
       <guid>http://timm-lichte.de/posts/shared-task-konvens-2021/</guid>
       <description>Together with Rafael Ehren, Kuba Waszczuk and Laura Kallmeyer, I&amp;rsquo;m currently organizing a shared task at KONVENS 2021 that aims at disambiguating literal and idiomatic occurrence of German verbal multi-word expressions, so-called verbal idioms (VIDs), in running text. An example would be the VID Das Konzert fiel ins Wasser (&amp;lsquo;The concert was canceled&amp;rsquo;) as opposed to literal counterparts such as Das Handy fiel ins Wasser (&amp;lsquo;The mobile phone fell into the water&amp;rsquo;).</description>
@@ -85,7 +85,7 @@ Before that, I was postdoc researcher and principal investigator in project A02 
     <item>
       <title>Privacy</title>
       <link>http://timm-lichte.de/privacy/privacy/</link>
-      <pubDate>Sat, 06 Jun 2020 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>http://timm-lichte.de/privacy/privacy/</guid>
       <description>Data Protection Policy (GDPR) This website does not collect, store or process Personally Identifiable Information (PII). This website does not require the use of cookies.
@@ -95,7 +95,7 @@ Third Party Inclusion This website is hosted by Github using Github Pages. The G
     <item>
       <title>Substitute professorship at the University of Bielefeld</title>
       <link>http://timm-lichte.de/posts/substitute-professorship-bielefeld/</link>
-      <pubDate>Sun, 18 Oct 2020 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>http://timm-lichte.de/posts/substitute-professorship-bielefeld/</guid>
       <description>In the winter term 2020/2021, I will fill a substitute professorship (50%) on &amp;ldquo;Applied Computational Linguistics&amp;rdquo; at the University of Bielefeld. I&amp;rsquo;m looking forward to teaching an introductory lecture on computational linguistics and a seminar on grammar formalisms.
@@ -105,7 +105,7 @@ See the teaching section for more details.</description>
     <item>
       <title>Launch of the new website</title>
       <link>http://timm-lichte.de/posts/launch-of-the-new-website/</link>
-      <pubDate>Sat, 06 Jun 2020 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>http://timm-lichte.de/posts/launch-of-the-new-website/</guid>
       <description>After having used WordPress for a couple of years now, it was time for a change. WordPress is a beast and I realized that I didn&amp;rsquo;t require a omnipotent CMS for just a couple of pages that are more or less static. More importantly, maintaining WordPress and not being able to use it from my favourite text editor was getting more and more painful. I therefore decided to switch to Hugo, which is a powerful, but entirely static, website generator.</description>

@@ -6,7 +6,17 @@
     <description>Recent content in research on Timm Lichte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Nov 2021 10:00:21 +0100</lastBuildDate><atom:link href="http://timm-lichte.de/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Nov 2021 09:30:35 +0100</lastBuildDate><atom:link href="http://timm-lichte.de/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Events</title>
+      <link>http://timm-lichte.de/events/events/</link>
+      <pubDate>Fri, 12 Nov 2021 09:30:35 +0100</pubDate>
+      
+      <guid>http://timm-lichte.de/events/events/</guid>
+      <description>&lt;h2 id=&#34;talks-and-presentations&#34;&gt;Talks &amp;amp; Presentations&lt;/h2&gt;
+&lt;p&gt;Timm Lichte &amp;amp; Laura Kallmeyer. 2021. The (putative) limits of inheritance in constructionist grammar theories. Talk at the Workshop  &amp;ldquo;Constructional approaches in Formal Grammar&amp;rdquo; of the International Conference on Construction Grammar (ICCG11). 20. August 2021, Antwerpen. &lt;a href=&#34;http://timm-lichte.de/ox-hugo/lichte-kallmeyer-iccg11-talk-slides.pdf&#34;&gt;[slides]​&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Publications</title>
       <link>http://timm-lichte.de/publications/publications/</link>
@@ -38,16 +48,6 @@ Language resources  COLF-VID &amp;amp; German SemEval-2013 task 5b: Data set of 
       <description>Together with Rainer Osswald, I am organizing the computational linguistics poster session at the 44th annual meeting of the German Linguistic Society (DGfS) in Tübingen which will be held online. The poster session is organized by the Special Interest Group on Computational Linguistics of the DGfS.
 The call for abstracts can be found here: https://uni-tuebingen.de/de/220206
 Note that the deadline for submissions is November 23, 2021.</description>
-    </item>
-    
-    <item>
-      <title>Events</title>
-      <link>http://timm-lichte.de/events/events/</link>
-      <pubDate>Fri, 20 Aug 2021 10:14:36 +0100</pubDate>
-      
-      <guid>http://timm-lichte.de/events/events/</guid>
-      <description>&lt;h2 id=&#34;talks-and-presentations&#34;&gt;Talks &amp;amp; Presentations&lt;/h2&gt;
-&lt;p&gt;Timm Lichte &amp;amp; Laura Kallmeyer. 2021. The (putative) limits of inheritance in constructionist grammar theories. Talk at the Workshop  &amp;ldquo;Constructional approaches in Formal Grammar&amp;rdquo; of the International Conference on Construction Grammar (ICCG11). 20. August 2021, Antwerpen.&lt;/p&gt;</description>
     </item>
     
     <item>

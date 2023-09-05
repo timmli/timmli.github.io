@@ -6,7 +6,20 @@
     <description>Recent content in work on Timm Lichte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Sep 2023 18:06:26 +0200</lastBuildDate><atom:link href="http://timm-lichte.de/categories/work/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Sep 2023 18:14:22 +0200</lastBuildDate><atom:link href="http://timm-lichte.de/categories/work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teaching</title>
+      <link>http://timm-lichte.de/teaching/teaching/</link>
+      <pubDate>Tue, 05 Sep 2023 18:14:22 +0200</pubDate>
+      
+      <guid>http://timm-lichte.de/teaching/teaching/</guid>
+      <description>&lt;h2 id=&#34;university-of-tübingen--computer-science&#34;&gt;University of Tübingen (Computer Science)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2023/2024: &lt;a href=&#34;https://alma.uni-tuebingen.de:443/alma/pages/startFlow.xhtml?_flowId=detailView-flow&amp;amp;unitId=60356&amp;amp;periodId=233&amp;amp;navigationPosition=hisinoneLehrorganisation,examEventOverviewOwn&#34;&gt;NLP: Praktische Einführung mit Python&lt;/a&gt; (lecture)&lt;/li&gt;
+&lt;li&gt;2023/2024: &lt;a href=&#34;https://alma.uni-tuebingen.de:443/alma/pages/startFlow.xhtml?_flowId=detailView-flow&amp;amp;unitId=60357&amp;amp;periodId=234&amp;amp;navigationPosition=studiesOffered,searchCourses&#34;&gt;NLP: Wort und Lexikon&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
     <item>
       <title>Publications</title>
       <link>http://timm-lichte.de/publications/publications/</link>
@@ -21,19 +34,6 @@
 &lt;p&gt;Ehren, Rafael, Laura Kallmeyer &amp;amp; Timm Lichte. 2022. An Analysis of Attention in German Verbal Idiom Disambiguation. In Proceedings of the 18th Workshop on Multiword Expressions (MWE 2022) n @ LREC 2022, 16–25. Marseille: European Language Resources Association (ELRA). &lt;a href=&#34;http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.5.pdf&#34;&gt;http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.5.pdf&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;2021&#34;&gt;2021&lt;/h2&gt;
 &lt;p&gt;Lichte, Timm. 2021. Against strict headedness in syntax. Journal of Language Modelling 9(2). 291–348. &lt;a href=&#34;https://jlm.ipipan.waw.pl/index.php/JLM/article/view/249&#34;&gt;https://jlm.ipipan.waw.pl/index.php/JLM/article/view/249&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>http://timm-lichte.de/teaching/teaching/</link>
-      <pubDate>Fri, 31 Mar 2023 12:21:01 +0200</pubDate>
-      
-      <guid>http://timm-lichte.de/teaching/teaching/</guid>
-      <description>&lt;h2 id=&#34;university-of-tübingen--computer-science&#34;&gt;University of Tübingen (Computer Science)&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;2023: &lt;a href=&#34;https://alma.uni-tuebingen.de:443/alma/pages/startFlow.xhtml?_flowId=detailView-flow&amp;amp;unitId=39089&amp;amp;periodId=226&#34;&gt;NLP: Text und Diskurs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;2023: &lt;a href=&#34;https://alma.uni-tuebingen.de:443/alma/pages/startFlow.xhtml?_flowId=detailView-flow&amp;amp;unitId=57813&amp;amp;periodId=226&#34;&gt;NLP: Phrase und Satz&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
     </item>
     
   </channel>

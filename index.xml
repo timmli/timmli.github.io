@@ -4,79 +4,116 @@
     <title>Timm Lichte</title>
     <link>http://timm-lichte.de/</link>
     <description>Recent content on Timm Lichte</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Jun 2024 21:33:36 +0200</lastBuildDate>
-    <atom:link href="http://timm-lichte.de/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Sep 2024 14:12:47 +0200</lastBuildDate><atom:link href="http://timm-lichte.de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teaching</title>
+      <link>http://timm-lichte.de/teaching/teaching/</link>
+      <pubDate>Sun, 29 Sep 2024 14:12:47 +0200</pubDate>
+      
+      <guid>http://timm-lichte.de/teaching/teaching/</guid>
+      <description>&lt;h2 id=&#34;university-of-tübingen--computer-science&#34;&gt;University of Tübingen (Computer Science)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2024/2025: &lt;a href=&#34;https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&amp;amp;unitId=60356&amp;amp;periodId=235&amp;amp;navigationPosition=studiesOffered,searchCourses&#34;&gt;NLP: Praktische Einführung mit Python&lt;/a&gt; (lecture)&lt;/li&gt;
+&lt;li&gt;2024/2025: &lt;a href=&#34;https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&amp;amp;unitId=57813&amp;amp;periodId=235&amp;amp;navigationPosition=studiesOffered,searchCourses&#34;&gt;NLP: Phrase und Satz&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
     <item>
       <title>Software &amp; Resources</title>
       <link>http://timm-lichte.de/software/software/</link>
       <pubDate>Sun, 02 Jun 2024 21:33:36 +0200</pubDate>
+      
       <guid>http://timm-lichte.de/software/software/</guid>
-      <description>I&amp;rsquo;ve been involved in the creation of the following software and resources.&#xA;Language resources COLF-VID &amp;amp; German SemEval-2013 task 5b: Data set of the Shared Task on the Disambiguation of German Verbal Idioms at KONVENS 2021 COLF-VID: Corpus of Literal and Figurative Readings PARSEME Shared Task: Corpus of German idioms Grammar engineering XMG-WebGUI: A web GUI for compiling and displaying metagrammars written with XMG. TuLiPA: A parsing environment for variants of Tree-Adjoining Grammar.</description>
+      <description>I&amp;rsquo;ve been involved in the creation of the following software and resources.
+Language resources COLF-VID &amp;amp; German SemEval-2013 task 5b: Data set of the Shared Task on the Disambiguation of German Verbal Idioms at KONVENS 2021 COLF-VID: Corpus of Literal and Figurative Readings PARSEME Shared Task: Corpus of German idioms Grammar engineering XMG-WebGUI: A web GUI for compiling and displaying metagrammars written with XMG. TuLiPA: A parsing environment for variants of Tree-Adjoining Grammar.</description>
     </item>
-    <item>
-      <title>Teaching</title>
-      <link>http://timm-lichte.de/teaching/teaching/</link>
-      <pubDate>Thu, 25 Apr 2024 11:05:44 +0200</pubDate>
-      <guid>http://timm-lichte.de/teaching/teaching/</guid>
-      <description>&lt;h2 id=&#34;university-of-tübingen--computer-science&#34;&gt;University of Tübingen (Computer Science)&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2024: &lt;a href=&#34;https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&amp;amp;unitId=39089&amp;amp;periodId=227&#34;&gt;NLP: Text und Diskurs&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;2024: &lt;a href=&#34;https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&amp;amp;unitId=60357&amp;amp;periodId=227&#34;&gt;NLP: Wort und Lexikon&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
+    
     <item>
       <title>Publications</title>
       <link>http://timm-lichte.de/publications/publications/</link>
       <pubDate>Tue, 05 Sep 2023 18:06:26 +0200</pubDate>
+      
       <guid>http://timm-lichte.de/publications/publications/</guid>
-      <description>&lt;h2 id=&#34;in-preparation&#34;&gt;In preparation&lt;/h2&gt;&#xA;&lt;p&gt;Burkhardt, Benjamin, Laura Kallmeyer &amp;amp; Timm Lichte. 2022. An analysis of English secondary predication with LTAG and semantic frames.&lt;/p&gt;&#xA;&lt;h2 id=&#34;2023&#34;&gt;2023&lt;/h2&gt;&#xA;&lt;p&gt;Savary, Agata, Cherifa Ben Khelil, Carlos Ramisch, Voula Giouli, Verginica Barbu Mititelu, Najet Hadj Mohamed, Cvetana Krstev, Chaya Liebeskind, Hongzhi Xu, Sara Stymne, Tunga Güngör, Thomas Pickard, Bruno Guillaume, Eduard Bejček, Archna Bhatia, Marie Candito, Polona Gantar, Uxoa Iñurrieta, Albert Gatt, Jolanta Kovalevskaite, Timm Lichte, Nikola Ljubešić, Johanna Monti, Carla Parra Escartín, Mehrnoush Shamsfard, Ivelina Stoyanova, Veronika Vincze, Abigail Walsh. 2023. PARSEME corpus release 1.3. In Proceedings of the 19th Workshop on Multiword Expressions (MWE 2023), 24–35. Dubrovnik, Croatia: Association for Computational Linguistics. &lt;a href=&#34;https://aclanthology.org/2023.mwe-1.6&#34;&gt;https://aclanthology.org/2023.mwe-1.6&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;2022&#34;&gt;2022&lt;/h2&gt;&#xA;&lt;p&gt;Ehren, Rafael, Laura Kallmeyer &amp;amp; Timm Lichte. 2022. An Analysis of Attention in German Verbal Idiom Disambiguation. In Proceedings of the 18th Workshop on Multiword Expressions (MWE 2022) n @ LREC 2022, 16–25. Marseille: European Language Resources Association (ELRA). &lt;a href=&#34;http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.5.pdf&#34;&gt;http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.5.pdf&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;2021&#34;&gt;2021&lt;/h2&gt;&#xA;&lt;p&gt;Lichte, Timm. 2021. Against strict headedness in syntax. Journal of Language Modelling 9(2). 291–348. &lt;a href=&#34;https://jlm.ipipan.waw.pl/index.php/JLM/article/view/249&#34;&gt;https://jlm.ipipan.waw.pl/index.php/JLM/article/view/249&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;in-preparation&#34;&gt;In preparation&lt;/h2&gt;
+&lt;p&gt;Burkhardt, Benjamin, Laura Kallmeyer &amp;amp; Timm Lichte. 2022. An analysis of English secondary predication with LTAG and semantic frames.&lt;/p&gt;
+&lt;h2 id=&#34;2023&#34;&gt;2023&lt;/h2&gt;
+&lt;p&gt;Savary, Agata, Cherifa Ben Khelil, Carlos Ramisch, Voula Giouli, Verginica Barbu Mititelu, Najet Hadj Mohamed, Cvetana Krstev, Chaya Liebeskind, Hongzhi Xu, Sara Stymne, Tunga Güngör, Thomas Pickard, Bruno Guillaume, Eduard Bejček, Archna Bhatia, Marie Candito, Polona Gantar, Uxoa Iñurrieta, Albert Gatt, Jolanta Kovalevskaite, Timm Lichte, Nikola Ljubešić, Johanna Monti, Carla Parra Escartín, Mehrnoush Shamsfard, Ivelina Stoyanova, Veronika Vincze, Abigail Walsh. 2023. PARSEME corpus release 1.3. In Proceedings of the 19th Workshop on Multiword Expressions (MWE 2023), 24–35. Dubrovnik, Croatia: Association for Computational Linguistics. &lt;a href=&#34;https://aclanthology.org/2023.mwe-1.6&#34;&gt;https://aclanthology.org/2023.mwe-1.6&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;2022&#34;&gt;2022&lt;/h2&gt;
+&lt;p&gt;Ehren, Rafael, Laura Kallmeyer &amp;amp; Timm Lichte. 2022. An Analysis of Attention in German Verbal Idiom Disambiguation. In Proceedings of the 18th Workshop on Multiword Expressions (MWE 2022) n @ LREC 2022, 16–25. Marseille: European Language Resources Association (ELRA). &lt;a href=&#34;http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.5.pdf&#34;&gt;http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.5.pdf&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;2021&#34;&gt;2021&lt;/h2&gt;
+&lt;p&gt;Lichte, Timm. 2021. Against strict headedness in syntax. Journal of Language Modelling 9(2). 291–348. &lt;a href=&#34;https://jlm.ipipan.waw.pl/index.php/JLM/article/view/249&#34;&gt;https://jlm.ipipan.waw.pl/index.php/JLM/article/view/249&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
+    
     <item>
       <title>Events</title>
       <link>http://timm-lichte.de/events/events/</link>
       <pubDate>Fri, 12 Nov 2021 09:30:35 +0100</pubDate>
+      
       <guid>http://timm-lichte.de/events/events/</guid>
-      <description>&lt;h2 id=&#34;talks-and-presentations&#34;&gt;Talks &amp;amp; Presentations&lt;/h2&gt;&#xA;&lt;p&gt;Timm Lichte &amp;amp; Laura Kallmeyer. 2021. The (putative) limits of inheritance in constructionist grammar theories. Talk at the Workshop  &amp;ldquo;Constructional approaches in Formal Grammar&amp;rdquo; of the International Conference on Construction Grammar (ICCG11). 20. August 2021, Antwerpen. &lt;a href=&#34;http://timm-lichte.de/ox-hugo/lichte-kallmeyer-iccg11-talk-slides.pdf&#34;&gt;[slides]​&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;talks-and-presentations&#34;&gt;Talks &amp;amp; Presentations&lt;/h2&gt;
+&lt;p&gt;Timm Lichte &amp;amp; Laura Kallmeyer. 2021. The (putative) limits of inheritance in constructionist grammar theories. Talk at the Workshop  &amp;ldquo;Constructional approaches in Formal Grammar&amp;rdquo; of the International Conference on Construction Grammar (ICCG11). 20. August 2021, Antwerpen. &lt;a href=&#34;http://timm-lichte.de/ox-hugo/lichte-kallmeyer-iccg11-talk-slides.pdf&#34;&gt;[slides]​&lt;/a&gt;&lt;/p&gt;</description>
     </item>
+    
     <item>
       <title>Poster session at DGfS 2022</title>
       <link>http://timm-lichte.de/posts/poster-session-dgfs-2022/</link>
       <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
+      
       <guid>http://timm-lichte.de/posts/poster-session-dgfs-2022/</guid>
-      <description>Together with Rainer Osswald, I am organizing the computational linguistics poster session at the 44th annual meeting of the German Linguistic Society (DGfS) in Tübingen which will be held online. The poster session is organized by the Special Interest Group on Computational Linguistics of the DGfS.&#xA;The call for abstracts can be found here: https://uni-tuebingen.de/de/220206&#xA;Note that the deadline for submissions is November 23, 2021.</description>
+      <description>Together with Rainer Osswald, I am organizing the computational linguistics poster session at the 44th annual meeting of the German Linguistic Society (DGfS) in Tübingen which will be held online. The poster session is organized by the Special Interest Group on Computational Linguistics of the DGfS.
+The call for abstracts can be found here: https://uni-tuebingen.de/de/220206
+Note that the deadline for submissions is November 23, 2021.</description>
     </item>
+    
     <item>
       <title>Shared Task at KONVENS 2021</title>
       <link>http://timm-lichte.de/posts/shared-task-konvens-2021/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      
       <guid>http://timm-lichte.de/posts/shared-task-konvens-2021/</guid>
       <description>Together with Rafael Ehren, Kuba Waszczuk and Laura Kallmeyer, I&amp;rsquo;m currently organizing a shared task at KONVENS 2021 that aims at disambiguating literal and idiomatic occurrence of German verbal multi-word expressions, so-called verbal idioms (VIDs), in running text. An example would be the VID Das Konzert fiel ins Wasser (&amp;lsquo;The concert was canceled&amp;rsquo;) as opposed to literal counterparts such as Das Handy fiel ins Wasser (&amp;lsquo;The mobile phone fell into the water&amp;rsquo;).</description>
     </item>
+    
     <item>
       <title>About</title>
       <link>http://timm-lichte.de/about/about/</link>
       <pubDate>Sat, 10 Apr 2021 09:52:18 +0200</pubDate>
+      
       <guid>http://timm-lichte.de/about/about/</guid>
-      <description>As of September 2018, I&amp;rsquo;m coordinator of the Department of Computer Science at the University of Tübingen.&#xA;Before that, I was postdoc researcher and principal investigator in project A02 of the CRC991 at the University of Düsseldorf. Before that, I did my PhD within Laura Kallmeyer’s Emmy Noether project at the University of Tübingen. Before that I had been studying General Linguistics, Rhetorics and Computer Science in Tübingen and Berlin.</description>
+      <description>As of September 2018, I&amp;rsquo;m coordinator of the Department of Computer Science at the University of Tübingen.
+Before that, I was postdoc researcher and principal investigator in project A02 of the CRC991 at the University of Düsseldorf. Before that, I did my PhD within Laura Kallmeyer’s Emmy Noether project at the University of Tübingen. Before that I had been studying General Linguistics, Rhetorics and Computer Science in Tübingen and Berlin.</description>
     </item>
+    
     <item>
       <title>Privacy</title>
       <link>http://timm-lichte.de/privacy/privacy/</link>
       <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      
       <guid>http://timm-lichte.de/privacy/privacy/</guid>
-      <description>Data Protection Policy (GDPR) This website does not collect, store or process Personally Identifiable Information (PII). This website does not require the use of cookies.&#xA;Third Party Inclusion This website is hosted by Github using Github Pages. The Github Global Privacy Practices are available here.</description>
+      <description>Data Protection Policy (GDPR) This website does not collect, store or process Personally Identifiable Information (PII). This website does not require the use of cookies.
+Third Party Inclusion This website is hosted by Github using Github Pages. The Github Global Privacy Practices are available here.</description>
     </item>
+    
     <item>
       <title>Substitute professorship at the University of Bielefeld</title>
       <link>http://timm-lichte.de/posts/substitute-professorship-bielefeld/</link>
       <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
       <guid>http://timm-lichte.de/posts/substitute-professorship-bielefeld/</guid>
-      <description>In the winter term 2020/2021, I will fill a substitute professorship (50%) on &amp;ldquo;Applied Computational Linguistics&amp;rdquo; at the University of Bielefeld. I&amp;rsquo;m looking forward to teaching an introductory lecture on computational linguistics and a seminar on grammar formalisms.&#xA;See the teaching section for more details.</description>
+      <description>In the winter term 2020/2021, I will fill a substitute professorship (50%) on &amp;ldquo;Applied Computational Linguistics&amp;rdquo; at the University of Bielefeld. I&amp;rsquo;m looking forward to teaching an introductory lecture on computational linguistics and a seminar on grammar formalisms.
+See the teaching section for more details.</description>
     </item>
+    
     <item>
       <title>Launch of the new website</title>
       <link>http://timm-lichte.de/posts/launch-of-the-new-website/</link>
       <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      
       <guid>http://timm-lichte.de/posts/launch-of-the-new-website/</guid>
       <description>After having used WordPress for a couple of years now, it was time for a change. WordPress is a beast and I realized that I didn&amp;rsquo;t require a omnipotent CMS for just a couple of pages that are more or less static. More importantly, maintaining WordPress and not being able to use it from my favourite text editor was getting more and more painful. I therefore decided to switch to Hugo, which is a powerful, but entirely static, website generator.</description>
     </item>
+    
   </channel>
 </rss>

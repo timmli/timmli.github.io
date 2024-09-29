@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Emacs on Timm Lichte</title>
+    <title>emacs on Timm Lichte</title>
     <link>http://timm-lichte.de/tags/emacs/</link>
-    <description>Recent content in Emacs on Timm Lichte</description>
-    <generator>Hugo</generator>
+    <description>Recent content in emacs on Timm Lichte</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Jun 2024 21:33:36 +0200</lastBuildDate>
-    <atom:link href="http://timm-lichte.de/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Jun 2024 21:33:36 +0200</lastBuildDate><atom:link href="http://timm-lichte.de/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Software &amp; Resources</title>
       <link>http://timm-lichte.de/software/software/</link>
       <pubDate>Sun, 02 Jun 2024 21:33:36 +0200</pubDate>
+      
       <guid>http://timm-lichte.de/software/software/</guid>
-      <description>I&amp;rsquo;ve been involved in the creation of the following software and resources.&#xA;Language resources COLF-VID &amp;amp; German SemEval-2013 task 5b: Data set of the Shared Task on the Disambiguation of German Verbal Idioms at KONVENS 2021 COLF-VID: Corpus of Literal and Figurative Readings PARSEME Shared Task: Corpus of German idioms Grammar engineering XMG-WebGUI: A web GUI for compiling and displaying metagrammars written with XMG. TuLiPA: A parsing environment for variants of Tree-Adjoining Grammar.</description>
+      <description>I&amp;rsquo;ve been involved in the creation of the following software and resources.
+Language resources COLF-VID &amp;amp; German SemEval-2013 task 5b: Data set of the Shared Task on the Disambiguation of German Verbal Idioms at KONVENS 2021 COLF-VID: Corpus of Literal and Figurative Readings PARSEME Shared Task: Corpus of German idioms Grammar engineering XMG-WebGUI: A web GUI for compiling and displaying metagrammars written with XMG. TuLiPA: A parsing environment for variants of Tree-Adjoining Grammar.</description>
     </item>
+    
   </channel>
 </rss>

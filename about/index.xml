@@ -4,16 +4,18 @@
     <title>Abouts on Timm Lichte</title>
     <link>http://timm-lichte.de/about/</link>
     <description>Recent content in Abouts on Timm Lichte</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Apr 2021 09:52:18 +0200</lastBuildDate>
-    <atom:link href="http://timm-lichte.de/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Apr 2021 09:52:18 +0200</lastBuildDate><atom:link href="http://timm-lichte.de/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>http://timm-lichte.de/about/about/</link>
       <pubDate>Sat, 10 Apr 2021 09:52:18 +0200</pubDate>
+      
       <guid>http://timm-lichte.de/about/about/</guid>
-      <description>As of September 2018, I&amp;rsquo;m coordinator of the Department of Computer Science at the University of Tübingen.&#xA;Before that, I was postdoc researcher and principal investigator in project A02 of the CRC991 at the University of Düsseldorf. Before that, I did my PhD within Laura Kallmeyer’s Emmy Noether project at the University of Tübingen. Before that I had been studying General Linguistics, Rhetorics and Computer Science in Tübingen and Berlin.</description>
+      <description>As of September 2018, I&amp;rsquo;m coordinator of the Department of Computer Science at the University of Tübingen.
+Before that, I was postdoc researcher and principal investigator in project A02 of the CRC991 at the University of Düsseldorf. Before that, I did my PhD within Laura Kallmeyer’s Emmy Noether project at the University of Tübingen. Before that I had been studying General Linguistics, Rhetorics and Computer Science in Tübingen and Berlin.</description>
     </item>
+    
   </channel>
 </rss>

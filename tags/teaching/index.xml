@@ -1,44 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>teaching on Timm Lichte</title>
+    <title>Teaching on Timm Lichte</title>
     <link>http://timm-lichte.de/tags/teaching/</link>
-    <description>Recent content in teaching on Timm Lichte</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Teaching on Timm Lichte</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Sep 2024 14:19:26 +0200</lastBuildDate><atom:link href="http://timm-lichte.de/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Sep 2024 14:19:26 +0200</lastBuildDate>
+    <atom:link href="http://timm-lichte.de/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Teaching</title>
       <link>http://timm-lichte.de/teaching/teaching/</link>
       <pubDate>Sun, 29 Sep 2024 14:19:26 +0200</pubDate>
-      
       <guid>http://timm-lichte.de/teaching/teaching/</guid>
-      <description>&lt;h2 id=&#34;university-of-tübingen--computer-science&#34;&gt;University of Tübingen (Computer Science)&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;2024/2025: &lt;a href=&#34;https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&amp;amp;unitId=60356&amp;amp;periodId=235&amp;amp;navigationPosition=studiesOffered,searchCourses&#34;&gt;NLP: Praktische Einführung mit Python&lt;/a&gt; (lecture)&lt;/li&gt;
-&lt;li&gt;2024/2025: &lt;a href=&#34;https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&amp;amp;unitId=57813&amp;amp;periodId=235&amp;amp;navigationPosition=studiesOffered,searchCourses&#34;&gt;NLP: Phrase und Satz&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <description>&lt;h2 id=&#34;university-of-tübingen--computer-science&#34;&gt;University of Tübingen (Computer Science)&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2024/2025: &lt;a href=&#34;https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&amp;amp;unitId=60356&amp;amp;periodId=235&amp;amp;navigationPosition=studiesOffered,searchCourses&#34;&gt;NLP: Praktische Einführung mit Python&lt;/a&gt; (lecture)&lt;/li&gt;&#xA;&lt;li&gt;2024/2025: &lt;a href=&#34;https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&amp;amp;unitId=57813&amp;amp;periodId=235&amp;amp;navigationPosition=studiesOffered,searchCourses&#34;&gt;NLP: Phrase und Satz&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>About</title>
       <link>http://timm-lichte.de/about/about/</link>
       <pubDate>Sat, 10 Apr 2021 09:52:18 +0200</pubDate>
-      
       <guid>http://timm-lichte.de/about/about/</guid>
-      <description>As of September 2018, I&amp;rsquo;m coordinator of the Department of Computer Science at the University of Tübingen.
-Before that, I was postdoc researcher and principal investigator in project A02 of the CRC991 at the University of Düsseldorf. Before that, I did my PhD within Laura Kallmeyer’s Emmy Noether project at the University of Tübingen. Before that I had been studying General Linguistics, Rhetorics and Computer Science in Tübingen and Berlin.</description>
+      <description>As of September 2018, I&amp;rsquo;m coordinator of the Department of Computer Science at the University of Tübingen.&#xA;Before that, I was postdoc researcher and principal investigator in project A02 of the CRC991 at the University of Düsseldorf. Before that, I did my PhD within Laura Kallmeyer’s Emmy Noether project at the University of Tübingen. Before that I had been studying General Linguistics, Rhetorics and Computer Science in Tübingen and Berlin.</description>
     </item>
-    
     <item>
       <title>Substitute professorship at the University of Bielefeld</title>
       <link>http://timm-lichte.de/posts/substitute-professorship-bielefeld/</link>
       <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>http://timm-lichte.de/posts/substitute-professorship-bielefeld/</guid>
-      <description>In the winter term 2020/2021, I will fill a substitute professorship (50%) on &amp;ldquo;Applied Computational Linguistics&amp;rdquo; at the University of Bielefeld. I&amp;rsquo;m looking forward to teaching an introductory lecture on computational linguistics and a seminar on grammar formalisms.
-See the teaching section for more details.</description>
+      <description>In the winter term 2020/2021, I will fill a substitute professorship (50%) on &amp;ldquo;Applied Computational Linguistics&amp;rdquo; at the University of Bielefeld. I&amp;rsquo;m looking forward to teaching an introductory lecture on computational linguistics and a seminar on grammar formalisms.&#xA;See the teaching section for more details.</description>
     </item>
-    
   </channel>
 </rss>
